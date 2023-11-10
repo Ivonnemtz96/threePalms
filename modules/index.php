@@ -8,9 +8,8 @@
                           <div class="row justify-content-center">
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
-                                      <h1>Book Your Stay & Enjoy
-                                          Luxury Experience</h1>
-                                      <a href="#" class="custom-btn"><span>Explore Room</span></a>
+                                      <h1>Property Managment & Vacation Planning</h1>
+                                      <a href="#" class="custom-btn"><span>Ver residencias</span></a>
                                   </div>
                               </div>
                           </div>
@@ -24,9 +23,8 @@
                           <div class="row justify-content-center">
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
-                                      <h1>Book Your Stay & Enjoy
-                                          Luxury Experience</h1>
-                                      <a href="#" class="custom-btn"><span>Explore Room</span></a>
+                                      <h1>Cleaning & Housekeeping Services</h1>
+                                      <a href="#" class="custom-btn"><span>Ver residencias</span></a>
                                   </div>
                               </div>
                           </div>
@@ -39,9 +37,8 @@
                           <div class="row justify-content-center">
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
-                                      <h1>Book Your Stay & Enjoy
-                                          Luxury Experience</h1>
-                                      <a href="#" class="custom-btn"><span>Explore Room</span></a>
+                                      <h1>Maintenance & Engineering</h1>
+                                      <a href="#" class="custom-btn"><span>Ver residencias</span></a>
                                   </div>
                               </div>
                           </div>
@@ -57,88 +54,6 @@
   <!-- ========== Hero Section Ends Here========== -->
 
 
-
-
-
-  <!-- ========== Booking Form Section start Here========== -->
-  <div class="booking booking--uplifted-sm" data-aos="fade-up" data-aos-duration="1000">
-      <div class="container">
-          <div class="booking__wrapper p-3 booking__wrapper--has-shadow">
-              <div class="row">
-                  <div class="col-12">
-                      <form action="#" class="booking__form">
-                          <div class="row justify-content-center g-4">
-                              <div class="col-xxl-2 col-xl-3 col-sm-6">
-                                  <div class="booking__form-inputgroup">
-                                      <div class="booking__form-date">
-                                          <input type="text" class="date-input form-control" placeholder="Check In"
-                                              id="date-input1">
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="col-xxl-2 col-xl-3 col-sm-6">
-                                  <div class="booking__form-inputgroup">
-                                      <div class="booking__form-date">
-                                          <input type="text" class="date-input form-control" placeholder="Check Out"
-                                              id="date-input2">
-                                      </div>
-                                  </div>
-                              </div>
-                              <div class="col-xxl-2 col-xl-3 col-sm-6">
-                                  <div class="booking__form-inputgroup">
-                                      <!-- <label for="test1" class="form-label">Room</label> -->
-                                      <select class="nice-selct wide form-select" aria-label="Default select example"
-                                          id="booking-field-3">
-                                          <option selected>Adult</option>
-                                          <option value="1">1</option>
-                                          <option value="2">2</option>
-                                          <option value="3">3</option>
-                                      </select>
-                                  </div>
-                              </div>
-                              <div class="col-xxl-2 col-xl-3 col-sm-6">
-                                  <div class="booking__form-inputgroup">
-                                      <!-- <label for="test1" class="form-label">Check Out</label> -->
-                                      <select class="nice-selct wide form-select" aria-label="Default select example"
-                                          id="booking-field-4">
-                                          <option selected>Children</option>
-                                          <option value="1">1</option>
-                                          <option value="2">2</option>
-                                          <option value="3">3</option>
-                                      </select>
-                                  </div>
-                              </div>
-                              <div class="col-xxl-2 col-xl-3 col-sm-6">
-                                  <div class="booking__form-inputgroup">
-                                      <!-- <label for="test1" class="form-label">Children</label> -->
-                                      <select class="nice-selct wide form-select" aria-label="Default select example"
-                                          id="booking-field-5">
-                                          <option selected>Room</option>
-                                          <option value="1">1</option>
-                                          <option value="2">2</option>
-                                          <option value="3">3</option>
-                                      </select>
-                                  </div>
-                              </div>
-                              <div class="col-xxl-2 col-xl-3 col-sm-6">
-                                  <div class="booking__form-btn">
-                                      <button class="custom-btn custom-btn--fluid"><span>Book Now</span></button>
-                                  </div>
-                              </div>
-                          </div>
-                      </form>
-                  </div>
-              </div>
-          </div>
-      </div>
-  </div>
-  <!-- ========== Booking Form Section Ends Here========== -->
-
-
-
-
-
-
   <!-- ========== About Section start Here========== -->
   <section class="about padding-top padding-bottom about--shape">
       <div class="container">
@@ -149,16 +64,15 @@
                       <div class="about__content" data-aos="fade-up" data-aos-duration="1000">
 
                           <div class="common-header">
-                              <p class="subtitle">Welcome to tavern</p>
-                              <h2>Our Hotel has been present for over 20 years.</h2>
+                              <p class="subtitle">Modern & Luxury</p>
+                              <h2>Three Palms</h2>
                           </div>
-                          <p>Continually productize compelling quality for packed in business consulting elated
-                              productize compelling quality for all packed in with all growth from quality elated
-                              Setting up to website and creating pages.
-                          </p>
-                          <p>Continually productize compelling quality for packed in business consulting elated
-                              productize compelling quality for all packed in with all growth from quality elated
-                              Setting up to website and creating pages.
+                          <p>
+                              Three Palms es una agencia de gestión de propiedades y planificación de vacaciones que
+                              está aquí para cambiar el juego, en comparación con otras empresas de gestión de
+                              propiedades nos centramos en crear experiencias únicas y memorables basadas en las
+                              necesidades y preferencias de los huéspedes. Ofrecemos un servicio de lujo basado en altos
+                              estándares modernos.
                           </p>
                           <ul class="funfact__list my-4">
                               <li class="funfact__item">
@@ -166,8 +80,8 @@
                                       <img src="assets/images/funfact/icons/1.png" alt="funfact icon">
                                   </div>
                                   <div class="funfact__item-content">
-                                      <h3><span>200</span>+</h3>
-                                      <p>Available Rooms</p>
+                                      <h3><span>20</span>+</h3>
+                                      <p>Propiedades</p>
                                   </div>
                               </li>
                               <li class="funfact__item">
@@ -175,8 +89,8 @@
                                       <img src="assets/images/funfact/icons/2.png" alt="funfact icon">
                                   </div>
                                   <div class="funfact__item-content">
-                                      <h3><span>400</span>+</h3>
-                                      <p>Staff Members</p>
+                                      <h3><span>5</span>+</h3>
+                                      <p>Meses</p>
                                   </div>
                               </li>
                               <li class="funfact__item">
@@ -184,12 +98,12 @@
                                       <img src="assets/images/funfact/icons/3.png" alt="funfact icon">
                                   </div>
                                   <div class="funfact__item-content">
-                                      <h3><span>240</span>k</h3>
-                                      <p>Served Clients</p>
+                                      <h3><span>50</span>+</h3>
+                                      <p>Clientes</p>
                                   </div>
                               </li>
                           </ul>
-                          <a href="#" class="custom-btn"><span>Explore Now</span></a>
+                          <a href="#" class="custom-btn"><span>Ver galería</span></a>
                       </div>
                   </div>
                   <div class="col-lg-6">
@@ -205,10 +119,83 @@
 
 
 
+<!-- ========== Feature Section start Here========== -->
+<section class="feature padding-top padding-bottom bg--section-color">
+    <div class="container">
+        <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
+            <div class="section-header__content">
+                <h2>Nuestros Servicios</h2>
+                <p>Continually productize compelling quality for packed in business consulting elated
+                    Setting up to website and creating pages.
+                </p>
+            </div>
+        </div>
+        <div class="feature__wrapper">
+            <div class="row g-4">
+                <div class="col-xl-3 col-md-6">
+                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="feature__item-inner">
+                            <div class="feature__item-thumb">
+                                <img src="assets/images/feature/icons/1.png" alt="feature icon">
+                            </div>
+                            <div class="feature__item-content">
+                                <h3>Customer Support</h3>
+                                <p>24 Hours Support</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                        <div class="feature__item-inner">
+                            <div class="feature__item-thumb">
+                                <img src="assets/images/feature/icons/2.png" alt="feature icon">
+                            </div>
+                            <div class="feature__item-content">
+                                <h3>Family Size Room</h3>
+                                <p>Available Room</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                        <div class="feature__item-inner">
+                            <div class="feature__item-thumb">
+                                <img src="assets/images/feature/icons/3.png" alt="feature icon">
+                            </div>
+                            <div class="feature__item-content">
+                                <h3>Conference Room</h3>
+                                <p>Conference Room Available</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                        <div class="feature__item-inner">
+                            <div class="feature__item-thumb">
+                                <img src="assets/images/feature/icons/4.png" alt="feature icon">
+                            </div>
+                            <div class="feature__item-content">
+                                <h3>Free Wifi Corner</h3>
+                                <p>Free Wifi</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ========== Feature Section Ends Here========== -->
+
+
+
 
 
   <!-- ========== Room Section start Here========== -->
-  <section class="room padding-top padding-bottom bg--section-color">
+  <section hidden class="room padding-top padding-bottom bg--section-color">
       <div class="container">
           <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
               <div class="section-header__content">
@@ -811,158 +798,6 @@
       </div>
   </div>
   <!-- ========== Sponsor Section ends Here========== -->
-
-
-
-
-
-
-  <!-- ========== Team Section start Here========== -->
-  <section class="team padding-top padding-bottom">
-      <div class="container">
-          <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
-              <div class="section-header__content">
-                  <h2>Tavern Hotel Team Member</h2>
-                  <p>Continually productize compelling quality for packed in business consulting elated
-                      Setting up to website and creating pages.
-                  </p>
-              </div>
-          </div>
-          <div class="team__wrapper">
-              <div class="row g-4">
-                  <div class="col-lg-6">
-                      <div class="team__item1" data-aos="fade-up-right" data-aos-duration="1000">
-                          <div class="team__item1-inner">
-                              <div class="team__item1-thumb">
-                                  <img src="assets/images/team/style1/1.png" alt="Team image">
-                              </div>
-                              <div class="team__item1-content">
-                                  <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Tom Abraham</a></h3>
-                                      <p>Hotel chef</p>
-                                  </div>
-                                  <p>Maecenasc sagittal qualm interdorm on of malasada a nigh meatus nectar felids
-                                      awesome cursus</p>
-                                  <ul class="social">
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-lg-6">
-                      <div class="team__item1" data-aos="fade-up-left" data-aos-duration="1000">
-                          <div class="team__item1-inner">
-                              <div class="team__item1-thumb">
-                                  <img src="assets/images/team/style1/2.png" alt="Team image">
-                              </div>
-                              <div class="team__item1-content">
-                                  <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Abraham Petty</a></h3>
-                                      <p>Manager</p>
-                                  </div>
-                                  <p>Maecenasc sagittal qualm interdorm on of malasada a nigh meatus nectar felids
-                                      awesome cursus</p>
-                                  <ul class="social">
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-lg-6">
-                      <div class="team__item1" data-aos="fade-up-right" data-aos-duration="1000" data-aos-delay="200">
-                          <div class="team__item1-inner">
-                              <div class="team__item1-thumb">
-                                  <img src="assets/images/team/style1/3.png" alt="Team image">
-                              </div>
-                              <div class="team__item1-content">
-                                  <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Annae Eraham</a></h3>
-                                      <p>Hotel Girl</p>
-                                  </div>
-                                  <p>Maecenasc sagittal qualm interdorm on of malasada a nigh meatus nectar felids
-                                      awesome cursus</p>
-                                  <ul class="social">
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-                  <div class="col-lg-6">
-                      <div class="team__item1" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="200">
-                          <div class="team__item1-inner">
-                              <div class="team__item1-thumb">
-                                  <img src="assets/images/team/style1/4.png" alt="Team image">
-                              </div>
-                              <div class="team__item1-content">
-                                  <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Tom Abraham</a></h3>
-                                      <p>Hotel Boy</p>
-                                  </div>
-                                  <p>Maecenasc sagittal qualm interdorm on of malasada a nigh meatus nectar felids
-                                      awesome cursus</p>
-                                  <ul class="social">
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
-                              </div>
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-  </section>
-  <!-- ========== Team Section ends Here========== -->
-
-
-
-
 
 
   <!-- ========== Faq Section start Here========== -->

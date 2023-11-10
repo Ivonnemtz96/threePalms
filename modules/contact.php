@@ -2,11 +2,11 @@
 <section class="page-header bg--cover" style="background-image: url(assets/images/header/bg.jpg);">
     <div class="container">
         <div class="page-header__content text-center">
-            <h2>Contact Us</h2>
+            <h2>Contáctanos</h2>
             <nav style="--bs-breadcrumb-divider: '/';" aria-label="breadcrumb">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="index.html">Home</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Contact us</li>
+                    <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                    <li class="breadcrumb-item active" aria-current="page">Contacto</li>
                 </ol>
             </nav>
         </div>
@@ -27,7 +27,7 @@
                     <div class="contact__info">
                         <div class="common-header">
                             <p class="subtitle">The Tavern Hotel</p>
-                            <h2>Know more about <br> our hotel</h2>
+                            <h2>Three Palms <br> Property Management & Vacation Planning</h2>
                         </div>
                         <p>Continually productize compelling quality for packed in business consulting elated
                             productize compelling quality for all packed in with all growth from quality elated
@@ -39,7 +39,7 @@
                                     <i class="fa-solid fa-location-dot"></i>
                                 </div>
                                 <div class="contact__info-content">
-                                    <h6>Office Address</h6>
+                                    <h6>Oficina</h6>
                                     <p>Suite 1307, Level 12, Tropical Center 218 <br>
                                         New Elephant Road, Dhaka - 1205</p>
                                 </div>
@@ -49,7 +49,7 @@
                                     <i class="fa-solid fa-phone"></i>
                                 </div>
                                 <div class="contact__info-content">
-                                    <h6>Phone Number</h6>
+                                    <h6>Teléfono</h6>
                                     <p>+8801278178193, 01009-814600 <br>
                                         02-960030</p>
                                 </div>
@@ -59,7 +59,7 @@
                                     <i class="fa-solid fa-envelope"></i>
                                 </div>
                                 <div class="contact__info-content">
-                                    <h6>Office Address</h6>
+                                    <h6>Correo</h6>
                                     <p><a href="mailto:support@tavern.com">support@tavern.com</a> <br>
                                         <a href="mailto:info@tavern.com">info@tavern.com</a>
                                     </p>
@@ -70,7 +70,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="contact__form">
-                        <h4>Send us a message</h4>
+                        <h4>Si tienes alguna duda escríbenos mensaje</h4>
                         <form action="#">
                             <div class="row g-4">
                                 <div class="col-md-6">
