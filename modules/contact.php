@@ -26,12 +26,13 @@
                 <div class="col-lg-6">
                     <div class="contact__info">
                         <div class="common-header">
-                            <p class="subtitle">The Tavern Hotel</p>
+                            <p class="subtitle">Estamos en contacto</p>
                             <h2>Three Palms <br> Property Management & Vacation Planning</h2>
                         </div>
-                        <p>Continually productize compelling quality for packed in business consulting elated
-                            productize compelling quality for all packed in with all growth from quality elated
-                            Setting up to website and creating pages.
+                        <p>
+                            Si tienes preguntas, comentarios o necesitas asistencia, estamos aquí para ayudarte. Utiliza
+                            la información de contacto a continuación o completa el formulario, y nos pondremos en
+                            contacto contigo lo antes posible.
                         </p>
                         <ul class="contact__info-list">
                             <li class="contact__info-item">
@@ -40,8 +41,9 @@
                                 </div>
                                 <div class="contact__info-content">
                                     <h6>Oficina</h6>
-                                    <p>Suite 1307, Level 12, Tropical Center 218 <br>
-                                        New Elephant Road, Dhaka - 1205</p>
+                                    <p>
+                                        Condominios Vila Dorada St.,Via De Lerry, Cabo San Lucas B.C.S
+                                    </p>
                                 </div>
                             </li>
                             <li class="contact__info-item">
@@ -50,8 +52,9 @@
                                 </div>
                                 <div class="contact__info-content">
                                     <h6>Teléfono</h6>
-                                    <p>+8801278178193, 01009-814600 <br>
-                                        02-960030</p>
+                                    <p>
+                                        <a href="tel:+526241170152">+52-624-117-0152</a>
+                                    </p>
                                 </div>
                             </li>
                             <li class="contact__info-item">
@@ -60,8 +63,9 @@
                                 </div>
                                 <div class="contact__info-content">
                                     <h6>Correo</h6>
-                                    <p><a href="mailto:support@tavern.com">support@tavern.com</a> <br>
-                                        <a href="mailto:info@tavern.com">info@tavern.com</a>
+                                    <p><a
+                                            href="mailto:threepalmsmanagement@gmail.com">threepalmsmanagement@gmail.com</a>
+                                        <br>
                                     </p>
                                 </div>
                             </li>
@@ -76,21 +80,28 @@
                                 <div class="col-md-6">
                                     <div class="booking__form-inputgroup">
                                         <div class="booking__form-input">
-                                            <input type="text" class="form-control" placeholder="Your Name">
+                                            <input type="text" class="form-control" placeholder="Nombre">
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-6">
                                     <div class="booking__form-inputgroup">
                                         <div class="booking__form-input">
-                                            <input type="email" class="form-control" placeholder="Your Email">
+                                            <input type="email" class="form-control" placeholder="Correo">
                                         </div>
                                     </div>
                                 </div>
-                                <div class="col-12">
+                                <div class="col-6">
                                     <div class="booking__form-inputgroup">
                                         <div class="booking__form-input">
-                                            <input type="text" class="form-control" placeholder="Subject">
+                                            <input type="text" class="form-control" placeholder="Teléfono">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-6">
+                                    <div class="booking__form-inputgroup">
+                                        <div class="booking__form-input">
+                                            <input type="text" class="form-control" placeholder="Asunto">
                                         </div>
                                     </div>
                                 </div>
@@ -98,12 +109,12 @@
                                     <div class="booking__form-inputgroup">
                                         <div class="booking__form-input">
                                             <textarea class="form-control textarea"
-                                                placeholder="Your Message..."> </textarea>
+                                                placeholder="Tu Mensaje..."></textarea>
                                         </div>
                                     </div>
                                 </div>
                             </div>
-                            <button class="custom-btn mt-40"><span>Submit Now</span></button>
+                            <button class="custom-btn mt-40" style="color: #fff;"><span>Enviar</span></button>
                         </form>
                     </div>
                 </div>
@@ -121,9 +132,11 @@
 <div class="map paddding-top padding-bottom">
     <div class="container">
         <div class="map__wrapper">
+
             <iframe
-                src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d72786.95261279827!2d24.6004849!3d55.2428558!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x46e797094f7b1aad%3A0x400d18c70e9dc00!2sUkmerg%C4%97%2C%20Ukmerg%C4%97%20District%20Municipality%2C%20Lithuania!5e0!3m2!1sen!2sbd!4v1685078327628!5m2!1sen!2sbd"
-                allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d4008.4277547481856!2d-109.93419040395615!3d22.885896437943153!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x86af4ba0533e8b6f%3A0x4d9a451a93b72042!2sFracc.%20Villa%20Dorada!5e0!3m2!1ses-419!2smx!4v1700088182378!5m2!1ses-419!2smx"
+               style="border:0;" allowfullscreen="" loading="lazy"
+                referrerpolicy="no-referrer-when-downgrade"></iframe>
         </div>
     </div>
 </div>
