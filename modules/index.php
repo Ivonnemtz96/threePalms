@@ -58,57 +58,39 @@
   <section class="about padding-top padding-bottom about--shape">
       <div class="container">
           <div class="about__wrapper">
-              <div class="row flex-lg-row-reverse align-items-center g-5">
-
+              <div class="row g-5">
                   <div class="col-lg-6">
-                      <div class="about__content" data-aos="fade-up" data-aos-duration="1000">
+                      <div class="about__content" data-aos="fade-up-right" data-aos-duration="1000"
+                          data-aos-delay="100">
 
                           <div class="common-header">
-                              <p class="subtitle">Modern & Luxury</p>
-                              <h2>Three Palms</h2>
+                              <h2>Sobre Alan González</h2>
+                              <p class="subtitle">Director & CEO</p>
                           </div>
                           <p>
-                              Three Palms es una agencia de gestión de propiedades y planificación de vacaciones que
-                              está aquí para cambiar el juego, en comparación con otras empresas de gestión de
-                              propiedades nos centramos en crear experiencias únicas y memorables basadas en las
-                              necesidades y preferencias de los huéspedes. Ofrecemos un servicio de lujo basado en altos
-                              estándares modernos.
+                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, mollitia sunt
+                              voluptates cum recusandae accusamus dolor unde repudiandae cumque dolores, obcaecati,
+                              nesciunt at! Praesentium minus architecto quam soluta ipsa? Et!
                           </p>
-                          <ul class="funfact__list my-4">
-                              <li class="funfact__item">
-                                  <div class="funfact__item-icon">
-                                      <img src="assets/images/funfact/icons/1.png" alt="funfact icon">
-                                  </div>
-                                  <div class="funfact__item-content">
-                                      <h3><span>20</span>+</h3>
-                                      <p>Propiedades</p>
-                                  </div>
-                              </li>
-                              <li class="funfact__item">
-                                  <div class="funfact__item-icon">
-                                      <img src="assets/images/funfact/icons/2.png" alt="funfact icon">
-                                  </div>
-                                  <div class="funfact__item-content">
-                                      <h3><span>5</span>+</h3>
-                                      <p>Meses</p>
-                                  </div>
-                              </li>
-                              <li class="funfact__item">
-                                  <div class="funfact__item-icon">
-                                      <img src="assets/images/funfact/icons/3.png" alt="funfact icon">
-                                  </div>
-                                  <div class="funfact__item-content">
-                                      <h3><span>50</span>+</h3>
-                                      <p>Clientes</p>
-                                  </div>
-                              </li>
-                          </ul>
-                          <a href="#" class="custom-btn"><span>Ver galería</span></a>
+                          <p>
+                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
+                              laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
+                              deserunt veniam iusto cumque animi?
+                          </p>
+                          <p>
+                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
+                              laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
+                              deserunt veniam iusto cumque animi?
+                          </p>
+                          <div class="row g-4 my-5">
+                          </div>
+                          <a href="#" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
                       </div>
                   </div>
                   <div class="col-lg-6">
-                      <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
-                          <img src="assets/images/about/home3/1.png" alt="About image">
+                      <div class="about__image" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="100">
+                          <div class="about__image-lg"><img src="assets/images/about/1.png" alt="About image"></div>
+                          <div class="about__image-sm"><img src="assets/images/about/2.png" alt="About image"></div>
                       </div>
                   </div>
               </div>
@@ -116,8 +98,6 @@
       </div>
   </section>
   <!-- ========== About Section ends Here========== -->
-
-
 
   <!-- ========== Feature Section start Here========== -->
   <section class="feature padding-top padding-bottom bg--section-color">
@@ -187,6 +167,70 @@
   <!-- ========== Feature Section Ends Here========== -->
 
 
+  <!-- ========== About Section start Here========== -->
+  <section class="about padding-top padding-bottom about--shape">
+      <div class="container">
+          <div class="about__wrapper">
+              <div class="row flex-lg-row-reverse align-items-center g-5">
+
+                  <div class="col-lg-6">
+                      <div class="about__content" data-aos="fade-up" data-aos-duration="1000">
+
+                          <div class="common-header">
+                              <p class="subtitle">Modern & Luxury</p>
+                              <h2>Three Palms</h2>
+                          </div>
+                          <p>
+                              Three Palms es una agencia de gestión de propiedades y planificación de vacaciones que
+                              está aquí para cambiar el juego, en comparación con otras empresas de gestión de
+                              propiedades nos centramos en crear experiencias únicas y memorables basadas en las
+                              necesidades y preferencias de los huéspedes. Ofrecemos un servicio de lujo basado en altos
+                              estándares modernos.
+                          </p>
+                          <ul class="funfact__list my-4">
+                              <li class="funfact__item">
+                                  <div class="funfact__item-icon">
+                                      <img src="assets/images/funfact/icons/1.png" alt="funfact icon">
+                                  </div>
+                                  <div class="funfact__item-content">
+                                      <h3><span>20</span>+</h3>
+                                      <p>Propiedades</p>
+                                  </div>
+                              </li>
+                              <li class="funfact__item">
+                                  <div class="funfact__item-icon">
+                                      <img src="assets/images/funfact/icons/2.png" alt="funfact icon">
+                                  </div>
+                                  <div class="funfact__item-content">
+                                      <h3><span>5</span>+</h3>
+                                      <p>Meses</p>
+                                  </div>
+                              </li>
+                              <li class="funfact__item">
+                                  <div class="funfact__item-icon">
+                                      <img src="assets/images/funfact/icons/3.png" alt="funfact icon">
+                                  </div>
+                                  <div class="funfact__item-content">
+                                      <h3><span>50</span>+</h3>
+                                      <p>Clientes</p>
+                                  </div>
+                              </li>
+                          </ul>
+                          <a href="#" class="custom-btn"><span>Ver galería</span></a>
+                      </div>
+                  </div>
+                  <div class="col-lg-6">
+                      <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
+                          <img src="assets/images/about/home3/1.png" alt="About image">
+                      </div>
+                  </div>
+              </div>
+          </div>
+      </div>
+  </section>
+  <!-- ========== About Section ends Here========== -->
+
+
 
   <!-- ========== Service Section start Here========== -->
   <section class="service padding-top padding-bottom bg--section-color">
@@ -199,7 +243,8 @@
                   </p>
               </div>
           </div>
-          <div class="service__wrapper service__wrapper--home1" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="100">
+          <div class="service__wrapper service__wrapper--home1" data-aos="fade-up" data-aos-duration="1000"
+              data-aos-delay="100">
               <div class="service__slider swiper">
                   <div class="swiper-wrapper">
                       <div class="swiper-slide">
@@ -214,7 +259,8 @@
                                           <h3>Cabo Adventures <br><br></h3>
                                       </div>
                                       <p>
-                                          Disfruta de las mejores actividades en Los Cabos con el 30% de descuento adquieriendo con nosotros.
+                                          Disfruta de las mejores actividades en Los Cabos con el 30% de descuento
+                                          adquieriendo con nosotros.
                                       </p>
                                       <ul class="service__aminities">
                                           <li class="service__aminities-item">
@@ -259,7 +305,8 @@
                                           <h3>En diferentes tipos de servicios</h3>
                                       </div>
                                       <p>
-                                          Únete a nosotros para recibir descuentos exclusivos en experiencias inolvidables.
+                                          Únete a nosotros para recibir descuentos exclusivos en experiencias
+                                          inolvidables.
                                       </p>
                                       <ul class="service__aminities">
                                           <li class="service__aminities-item">
@@ -358,9 +405,10 @@
       <div class="container">
           <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
               <div class="section-header__content">
-                  <h2>Tavern Hotel Team Member</h2>
-                  <p>Continually productize compelling quality for packed in business consulting elated
-                      Setting up to website and creating pages.
+                  <h2>Otros Servicios</h2>
+                  <p>
+                      Encuentra tu lugar en el mundo con nuestra amplia gama de propiedades exclusivas y los servicios
+                      que tenemos para ti.
                   </p>
               </div>
           </div>
@@ -374,24 +422,12 @@
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Tom Abraham</a></h3>
-                                      <p>Hotel chef</p>
+                                      <h3>Servicio de Limpieza</h3>
                                   </div>
-                                  <p>Maecenasc sagittal qualm interdorm on of malasada a nigh meatus nectar felids awesome cursus</p>
-                                  <ul class="social">
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
+                                  <p>
+                                      Transformamos espacios con nuestro servicio de limpieza. Descubre la pureza y
+                                      frescura que solo podemos ofrecer.
+                                  </p>
                               </div>
                           </div>
                       </div>
@@ -404,24 +440,12 @@
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Abraham Petty</a></h3>
-                                      <p>Manager</p>
+                                      <h3>Concierge On Site o a distancia</h3>
                                   </div>
-                                  <p>Maecenasc sagittal qualm interdorm on of malasada a nigh meatus nectar felids awesome cursus</p>
-                                  <ul class="social">
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
+                                  <p>
+                                      Desde la comodidad de tu propiedad, simplificamos tu vida para satisfacer tus
+                                      necesidades.
+                                  </p>
                               </div>
                           </div>
                       </div>
@@ -434,24 +458,11 @@
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Annae Eraham</a></h3>
-                                      <p>Hotel Girl</p>
+                                      <h3><a href="team-single.html">Servicios exclusivos de yates</a></h3>
                                   </div>
-                                  <p>Maecenasc sagittal qualm interdorm on of malasada a nigh meatus nectar felids awesome cursus</p>
-                                  <ul class="social">
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
+                                  <p>
+                                      Creamos experiencias marítimas inolvidables para ti y tus invitados.
+                                  </p>
                               </div>
                           </div>
                       </div>
@@ -464,24 +475,11 @@
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Tom Abraham</a></h3>
-                                      <p>Hotel Boy</p>
+                                      <h3><a href="team-single.html">Mantenimiento de propiedades</a></h3>
                                   </div>
-                                  <p>Maecenasc sagittal qualm interdorm on of malasada a nigh meatus nectar felids awesome cursus</p>
-                                  <ul class="social">
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitter"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-discord"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-twitch"></i></a>
-                                      </li>
-                                      <li class="social__item">
-                                          <a href="#" class="social__link"><i class="fab fa-instagram"></i></a>
-                                      </li>
-                                  </ul>
+                                  <p>
+                                      Para que disfrutes de un espacio impecable y funcional en todo momento.
+                                  </p>
                               </div>
                           </div>
                       </div>
@@ -504,10 +502,10 @@
                       <div class="faq__content">
                           <div class="section-header">
                               <div class="section-header__content text-start">
-                                  <h2>Post Your Questions <br>
-                                      Our Expart Ready to Answer</h2>
-                                  <p>Conveniently customize proactive services leveraged without
-                                      continualliery aggregate fricctionle ou wellies
+                                  <h2>Algunas Preguntas Frecuentes</h2>
+                                  <p>
+                                      Aquí dejamos unas de las preguntas más frecuentes que suelen preguntar nuestros
+                                      clientes.
                                   </p>
                               </div>
                           </div>
@@ -516,17 +514,20 @@
                                   <div class="col-12">
                                       <div class="accordion__item" data-aos="fade-up-right" data-aos-duration="1000">
                                           <div class="accordion__header" id="faq1">
-                                              <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody1" aria-expanded="false" aria-controls="faqBody1">
-                                                  What'special about your theme?
+                                              <button class="accordion__button collapsed" type="button"
+                                                  data-bs-toggle="collapse" data-bs-target="#faqBody1"
+                                                  aria-expanded="false" aria-controls="faqBody1">
+                                                  Pregunta 1
                                                   <span class="plus-icon"></span>
                                               </button>
                                           </div>
-                                          <div id="faqBody1" class="accordion-collapse collapse" aria-labelledby="faq1" data-bs-parent="#faqAccordion2">
+                                          <div id="faqBody1" class="accordion-collapse collapse" aria-labelledby="faq1"
+                                              data-bs-parent="#faqAccordion2">
                                               <div class="accordion__body">
-                                                  Don’t get shirty with me owt to do with me arse down have
-                                                  it car boot happy days no biggie bevriy only aquid goods
-                                                  flat the little rotter cheeky. Lorem ipsum dolor siterx
-                                                  amet Lorem ipsum dolor sit amet.
+                                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                                                  sint, inventore sequi iste quibusdam atque nemo architecto quisquam
+                                                  possimus reiciendis deleniti? Labore quaerat optio voluptas ea quasi
+                                                  hic laboriosam odit?
                                               </div>
                                           </div>
                                       </div>
@@ -534,16 +535,19 @@
                                   <div class="col-12">
                                       <div class="accordion__item" data-aos="fade-up-right" data-aos-duration="1100">
                                           <div class="accordion__header" id="faq2">
-                                              <button class="accordion__button" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody2" aria-expanded="true" aria-controls="faqBody2">
-                                                  Can I get a free consultation ? <span class="plus-icon"></span>
+                                              <button class="accordion__button" type="button" data-bs-toggle="collapse"
+                                                  data-bs-target="#faqBody2" aria-expanded="true"
+                                                  aria-controls="faqBody2">
+                                                  Pregunta 2 <span class="plus-icon"></span>
                                               </button>
                                           </div>
-                                          <div id="faqBody2" class="accordion-collapse collapse show" aria-labelledby="faq2" data-bs-parent="#faqAccordion2">
+                                          <div id="faqBody2" class="accordion-collapse collapse show"
+                                              aria-labelledby="faq2" data-bs-parent="#faqAccordion2">
                                               <div class="accordion__body">
-                                                  Don’t get shirty with me owt to do with me arse down have
-                                                  it car boot happy days no biggie bevriy only aquid goods
-                                                  flat the little rotter cheeky. Lorem ipsum dolor siterx
-                                                  amet Lorem ipsum dolor sit amet.
+                                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                                                  sint, inventore sequi iste quibusdam atque nemo architecto quisquam
+                                                  possimus reiciendis deleniti? Labore quaerat optio voluptas ea quasi
+                                                  hic laboriosam odit?
                                               </div>
                                           </div>
                                       </div>
@@ -551,16 +555,19 @@
                                   <div class="col-12">
                                       <div class="accordion__item" data-aos="fade-up-right" data-aos-duration="1200">
                                           <div class="accordion__header" id="faq3">
-                                              <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody3" aria-expanded="false" aria-controls="faqBody3">
-                                                  How much do you charge ?<span class="plus-icon"></span>
+                                              <button class="accordion__button collapsed" type="button"
+                                                  data-bs-toggle="collapse" data-bs-target="#faqBody3"
+                                                  aria-expanded="false" aria-controls="faqBody3">
+                                                  Pregunta 3<span class="plus-icon"></span>
                                               </button>
                                           </div>
-                                          <div id="faqBody3" class="accordion-collapse collapse" aria-labelledby="faq3" data-bs-parent="#faqAccordion2">
+                                          <div id="faqBody3" class="accordion-collapse collapse" aria-labelledby="faq3"
+                                              data-bs-parent="#faqAccordion2">
                                               <div class="accordion__body">
-                                                  Don’t get shirty with me owt to do with me arse down have
-                                                  it car boot happy days no biggie bevriy only aquid goods
-                                                  flat the little rotter cheeky. Lorem ipsum dolor siterx
-                                                  amet Lorem ipsum dolor sit amet.
+                                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                                                  sint, inventore sequi iste quibusdam atque nemo architecto quisquam
+                                                  possimus reiciendis deleniti? Labore quaerat optio voluptas ea quasi
+                                                  hic laboriosam odit?
                                               </div>
                                           </div>
                                       </div>
@@ -568,16 +575,19 @@
                                   <div class="col-12">
                                       <div class="accordion__item" data-aos="fade-up-right" data-aos-duration="1300">
                                           <div class="accordion__header" id="faq4">
-                                              <button class="accordion__button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#faqBody4" aria-expanded="false" aria-controls="faqBody4">
-                                                  Receding Hairline Treatment<span class="plus-icon"></span>
+                                              <button class="accordion__button collapsed" type="button"
+                                                  data-bs-toggle="collapse" data-bs-target="#faqBody4"
+                                                  aria-expanded="false" aria-controls="faqBody4">
+                                                  Pregunta 4<span class="plus-icon"></span>
                                               </button>
                                           </div>
-                                          <div id="faqBody4" class="accordion-collapse collapse" aria-labelledby="faq4" data-bs-parent="#faqAccordion2">
+                                          <div id="faqBody4" class="accordion-collapse collapse" aria-labelledby="faq4"
+                                              data-bs-parent="#faqAccordion2">
                                               <div class="accordion__body">
-                                                  Don’t get shirty with me owt to do with me arse down have
-                                                  it car boot happy days no biggie bevriy only aquid goods
-                                                  flat the little rotter cheeky. Lorem ipsum dolor siterx
-                                                  amet Lorem ipsum dolor sit amet.
+                                                  Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
+                                                  sint, inventore sequi iste quibusdam atque nemo architecto quisquam
+                                                  possimus reiciendis deleniti? Labore quaerat optio voluptas ea quasi
+                                                  hic laboriosam odit?
                                               </div>
                                           </div>
                                       </div>

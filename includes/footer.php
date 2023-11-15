@@ -1,34 +1,7 @@
   <!-- ========== Footer Section start Here========== -->
   <footer class="footer">
-
-      <!-- Footer Newsletter -->
-      <div class="newsletter newsletter--lowerd">
-          <div class="container">
-              <div class="newsletter__wrapper">
-                  <div class="row justify-content-center">
-                      <div class="col-lg-6">
-                          <div class="newsletter__content text-center">
-                              <div class="common-header">
-                                  <p class="subtitle">Get Update</p>
-                                  <h2>Get Latest Updates and Deals
-                                  </h2>
-                              </div>
-                              <div class="input-group">
-                                  <input type="text" class="form-control" placeholder="Enter Your mail"
-                                      aria-label="Subscirbe to Newsletter" aria-describedby="newsletter-input">
-                                  <button class="subscribe-btn" id="newsletter-input">Subscribe</button>
-                              </div>
-
-                          </div>
-                      </div>
-                  </div>
-              </div>
-          </div>
-      </div>
-
-
       <!-- Main footer part -->
-      <div class="footer__wrapper padding-top padding-top--2x padding-bottom">
+      <div hidden class="footer__wrapper padding-top padding-top--2x padding-bottom">
           <div class="container">
               <div class="row g-5">
 
@@ -150,7 +123,10 @@
       <!-- Footer copyright part -->
       <div class="footer__copyright py-30">
           <div class="container">
-              <p class="text-center mb-0">© Copyright 2023. All Rights Reserved by LabArtisan</p>
+              <p class="text-center mb-0">
+                  Three Palms 2023. Todos los derechos reservados. Diseñado por
+                  <a style="color: #0b1942;" href="https://www.bananagroup.mx/" target="_blank"><strong>Banana Group Marketing</strong></a>
+              </p>
           </div>
       </div>
   </footer>
