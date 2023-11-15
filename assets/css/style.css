@@ -4377,7 +4377,7 @@ body #magicMouseCursor {
 }
 .service__aminities-name:after {
   font-size: 1.25rem;
-  content: ":";
+  content: "";
   color: #1F3347;
   font-family: "Gilda Display", serif;
   font-weight: 700;
