@@ -20,7 +20,7 @@
                             <ul class="menu">
                                 <li><a href="index.php">Inicio</a></li>
                                 <li><a href="about.php">Nosotros</a></li>
-                                <li><a href="rentals.php">Rentas</a></li>
+                                <li><a href="rentals.php">Propiedades</a></li>
                                 <li><a href="gallery.php">Galería</a></li>
                                 <li><a href="contact.php">Contacto</a></li>
                             </ul>
