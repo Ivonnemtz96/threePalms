@@ -14,3 +14,5 @@
 <script src="assets/js/kursor.min.js"></script>
 <script src="assets/js/progressbar.min.js"></script>
 <script src="assets/js/custom.js"></script>
+<!-- icons de redes sociales -->
+<script src="https://kit.fontawesome.com/a66c8c86d9.js" crossorigin="anonymous"></script>
