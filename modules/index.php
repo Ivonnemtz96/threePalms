@@ -9,7 +9,7 @@
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
                                       <h1>Property Managment & Vacation Planning</h1>
-                                      <a href="#" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
+                                      <a href="rentals.php" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
                                   </div>
                               </div>
                           </div>
@@ -24,7 +24,7 @@
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
                                       <h1>Cleaning & Housekeeping Services</h1>
-                                      <a href="#" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
+                                      <a href="rentals.php" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
                                   </div>
                               </div>
                           </div>
@@ -38,7 +38,7 @@
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
                                       <h1>Maintenance & <br> Engineering</h1>
-                                      <a href="#" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
+                                      <a href="rentals.php" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
                                   </div>
                               </div>
                           </div>
@@ -101,7 +101,7 @@
                                   </div>
                               </li>
                           </ul>
-                          <a href="#" class="custom-btn"><span>Ver galería</span></a>
+                          <a href="galeria.php" class="custom-btn"><span>Ver galería</span></a>
                       </div>
                   </div>
                   <div class="col-lg-6">
@@ -209,7 +209,7 @@
                           </p>
                           <div class="row g-4 my-5">
                           </div>
-                          <a href="#" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
+                          <a href="about.php" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
                       </div>
                   </div>
                   <div class="col-lg-6">
@@ -279,7 +279,7 @@
                                               </div>
                                           </li>
                                       </ul>
-                                      <a href="#" class="custom-btn"><span>Contactar</span></a>
+                                      <a href="tel:+526241170152" class="custom-btn"><span>Contactar</span></a>
                                   </div>
                               </div>
                           </div>
@@ -325,7 +325,7 @@
                                               </div>
                                           </li>
                                       </ul>
-                                      <a href="#" class="custom-btn"><span>Contactar</span></a>
+                                      <a href="tel:+526241170152" class="custom-btn"><span>Contactar</span></a>
                                   </div>
                               </div>
                           </div>
@@ -445,7 +445,7 @@
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Servicios exclusivos de yates</a></h3>
+                                      <h3>Servicios exclusivos de yates</h3>
                                   </div>
                                   <p>
                                       Creamos experiencias marítimas inolvidables para ti y tus invitados.
@@ -462,7 +462,7 @@
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
-                                      <h3><a href="team-single.html">Mantenimiento de propiedades</a></h3>
+                                      <h3>Mantenimiento de propiedades</h3>
                                   </div>
                                   <p>
                                       Para que disfrutes de un espacio impecable y funcional en todo momento.
