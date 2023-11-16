@@ -48,12 +48,12 @@
                             dolorum eius eaque, asperiores amet quaerat, exercitationem iure qui optio. Placeat rem
                             culpa consectetur magni.
                         </p>
-                        <a href="#" class="custom-btn"><span>Ver galería</span></a>
+                        <a href="galeria.php" class="custom-btn texto-bco"><span>Ver galería</span></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
-                        <img src="assets/images/about/home3/1.png" alt="About image">
+                        <img src="assets/images/about/home3/2.jpg" alt="About image">
                     </div>
                 </div>
             </div>
@@ -133,13 +133,13 @@
 
 
 <!-- ========== About Section start Here========== -->
-<section class="about padding-top padding-bottom about--shape" >
+<section class="about padding-top padding-bottom " >
     <div class="container">
         <div class="about__wrapper">
             <div class="row flex-lg-row-reverse align-items-center g-5">
                 <div class="col-lg-6">
                     <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
-                        <img src="assets/images/about/home3/1.png" alt="About image">
+                        <img src="assets/images/about/home3/03.jpg" alt="About image">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -172,7 +172,7 @@
                             Donde saben que sus huéspedes, más allá de un simple servicio, están recibiendo una
                             experiencia única e inolvidable.
                         </p>
-                        <a href="#" class="custom-btn mt-20"><span>Ver galería</span></a>
+                        <a href="galeria.php" class="custom-btn mt-20 texto-bco"><span>Ver galería</span></a>
                     </div>
                 </div>
 
@@ -212,13 +212,13 @@
                         </p>
                         <div class="row g-4 my-5">
                         </div>
-                        <a href="#" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
+                        <a href="rentals.php" class="custom-btn texto-bco"><span>Más de Three Palms</span></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="about__image" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="100">
-                        <div class="about__image-lg"><img src="assets/images/about/1.png" alt="About image"></div>
-                        <div class="about__image-sm"><img src="assets/images/about/2.png" alt="About image"></div>
+                        <div class="about__image-lg"><img src="assets/images/about/05.jpg" alt="About image"></div>
+                        <!-- <div class="about__image-sm"><img src="assets/images/about/2.png" alt="About image"></div> -->
                     </div>
                 </div>
             </div>
