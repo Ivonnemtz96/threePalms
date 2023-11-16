@@ -117,7 +117,7 @@
                     <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
                         <div class="feature__item-inner">
                             <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/4.png" alt="feature icon">
+                                <img src="assets/images/feature/icons/5.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
                                 <h3>Servicios de limpieza</h3>
