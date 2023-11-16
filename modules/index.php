@@ -1,15 +1,15 @@
-  <!-- ========== Hero Section start Here========== -->
+
   <section class="hero hero--home3">
       <div class="hero__slider hero__slider--hover-navigation swiper">
           <div class="swiper-wrapper">
               <div class="swiper-slide">
-                  <div class="hero__wrapper" style="background-image:url(assets/images/hero/home1/bg.jpg)">
+                  <div class="hero__wrapper" style="background-image:url(assets/images/hero/home1/01.jpg)">
                       <div class="container">
                           <div class="row justify-content-center">
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
                                       <h1>Property Managment & Vacation Planning</h1>
-                                      <a href="#" class="custom-btn"><span>Ver propiedades</span></a>
+                                      <a href="#" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
                                   </div>
                               </div>
                           </div>
@@ -18,13 +18,13 @@
                   </div>
               </div>
               <div class="swiper-slide">
-                  <div class="hero__wrapper" style="background-image:url(assets/images/hero/home1/bg.jpg)">
+                  <div class="hero__wrapper" style="background-image:url(assets/images/hero/home1/02.jpg)">
                       <div class="container">
                           <div class="row justify-content-center">
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
                                       <h1>Cleaning & Housekeeping Services</h1>
-                                      <a href="#" class="custom-btn"><span>Ver propiedades</span></a>
+                                      <a href="#" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
                                   </div>
                               </div>
                           </div>
@@ -32,13 +32,13 @@
                   </div>
               </div>
               <div class="swiper-slide">
-                  <div class="hero__wrapper" style="background-image:url(assets/images/hero/home1/bg.jpg)">
+                  <div class="hero__wrapper" style="background-image:url(assets/images/hero/home1/03.jpg)">
                       <div class="container">
                           <div class="row justify-content-center">
                               <div class="col-lg-8">
                                   <div class="hero__content hero__content--center">
                                       <h1>Maintenance & <br> Engineering</h1>
-                                      <a href="#" class="custom-btn"><span>Ver propiedades</span></a>
+                                      <a href="#" style="color: #fff;" class="custom-btn"><span>Ver propiedades</span></a>
                                   </div>
                               </div>
                           </div>
@@ -51,55 +51,69 @@
           <div class="hero__slider-next"><i class="fa-solid fa-arrow-right"></i></div>
       </div>
   </section>
-  <!-- ========== Hero Section Ends Here========== -->
 
 
-  <!-- ========== About Section start Here========== -->
   <section class="about padding-top padding-bottom about--shape">
       <div class="container">
           <div class="about__wrapper">
-              <div class="row g-5">
+              <div class="row flex-lg-row-reverse align-items-center g-5">
+
                   <div class="col-lg-6">
-                      <div class="about__content" data-aos="fade-up-right" data-aos-duration="1000"
-                          data-aos-delay="100">
+                      <div class="about__content" data-aos="fade-up" data-aos-duration="1000">
 
                           <div class="common-header">
-                              <h2>Sobre Alan González</h2>
-                              <p class="subtitle">Director & CEO</p>
+                              <p class="subtitle">Modern & Luxury</p>
+                              <h2>Three Palms</h2>
                           </div>
                           <p>
-                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, mollitia sunt
-                              voluptates cum recusandae accusamus dolor unde repudiandae cumque dolores, obcaecati,
-                              nesciunt at! Praesentium minus architecto quam soluta ipsa? Et!
+                              Three Palms es una agencia de gestión de propiedades y planificación de vacaciones que
+                              está aquí para cambiar el juego, en comparación con otras empresas de gestión de
+                              propiedades nos centramos en crear experiencias únicas y memorables basadas en las
+                              necesidades y preferencias de los huéspedes. Ofrecemos un servicio de lujo basado en altos
+                              estándares modernos.
                           </p>
-                          <p>
-                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
-                              laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
-                              deserunt veniam iusto cumque animi?
-                          </p>
-                          <p>
-                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
-                              laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
-                              deserunt veniam iusto cumque animi?
-                          </p>
-                          <div class="row g-4 my-5">
-                          </div>
-                          <a href="#" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
+                          <ul class="funfact__list my-4">
+                              <li class="funfact__item">
+                                  <div class="funfact__item-icon">
+                                      <img src="assets/images/funfact/icons/1.png" alt="funfact icon">
+                                  </div>
+                                  <div class="funfact__item-content">
+                                      <h3><span>20</span>+</h3>
+                                      <p>Propiedades</p>
+                                  </div>
+                              </li>
+                              <li class="funfact__item">
+                                  <div class="funfact__item-icon">
+                                      <img src="assets/images/funfact/icons/2.png" alt="funfact icon">
+                                  </div>
+                                  <div class="funfact__item-content">
+                                      <h3><span>5</span>+</h3>
+                                      <p>Meses</p>
+                                  </div>
+                              </li>
+                              <li class="funfact__item">
+                                  <div class="funfact__item-icon">
+                                      <img src="assets/images/funfact/icons/3.png" alt="funfact icon">
+                                  </div>
+                                  <div class="funfact__item-content">
+                                      <h3><span>50</span>+</h3>
+                                      <p>Clientes</p>
+                                  </div>
+                              </li>
+                          </ul>
+                          <a href="#" class="custom-btn"><span>Ver galería</span></a>
                       </div>
                   </div>
                   <div class="col-lg-6">
-                      <div class="about__image" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="100">
-                          <div class="about__image-lg"><img src="assets/images/about/1.png" alt="About image"></div>
-                          <div class="about__image-sm"><img src="assets/images/about/2.png" alt="About image"></div>
+                      <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
+                          <img src="assets/images/about/home3/2.jpg" alt="About image">
                       </div>
                   </div>
               </div>
           </div>
       </div>
   </section>
-  <!-- ========== About Section ends Here========== -->
 
-  <!-- ========== Feature Section start Here========== -->
   <section class="feature padding-top padding-bottom bg--section-color">
       <div class="container">
           <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
@@ -164,75 +178,52 @@
           </div>
       </div>
   </section>
-  <!-- ========== Feature Section Ends Here========== -->
 
 
-  <!-- ========== About Section start Here========== -->
   <section class="about padding-top padding-bottom about--shape">
       <div class="container">
           <div class="about__wrapper">
-              <div class="row flex-lg-row-reverse align-items-center g-5">
-
+              <div class="row g-5">
                   <div class="col-lg-6">
-                      <div class="about__content" data-aos="fade-up" data-aos-duration="1000">
+                      <div class="about__content" data-aos="fade-up-right" data-aos-duration="1000"
+                          data-aos-delay="100">
 
                           <div class="common-header">
-                              <p class="subtitle">Modern & Luxury</p>
-                              <h2>Three Palms</h2>
+                              <h2>Sobre Alan González</h2>
+                              <p class="subtitle">Director & CEO</p>
                           </div>
                           <p>
-                              Three Palms es una agencia de gestión de propiedades y planificación de vacaciones que
-                              está aquí para cambiar el juego, en comparación con otras empresas de gestión de
-                              propiedades nos centramos en crear experiencias únicas y memorables basadas en las
-                              necesidades y preferencias de los huéspedes. Ofrecemos un servicio de lujo basado en altos
-                              estándares modernos.
+                              Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, mollitia sunt
+                              voluptates cum recusandae accusamus dolor unde repudiandae cumque dolores, obcaecati,
+                              nesciunt at! Praesentium minus architecto quam soluta ipsa? Et!
                           </p>
-                          <ul class="funfact__list my-4">
-                              <li class="funfact__item">
-                                  <div class="funfact__item-icon">
-                                      <img src="assets/images/funfact/icons/1.png" alt="funfact icon">
-                                  </div>
-                                  <div class="funfact__item-content">
-                                      <h3><span>20</span>+</h3>
-                                      <p>Propiedades</p>
-                                  </div>
-                              </li>
-                              <li class="funfact__item">
-                                  <div class="funfact__item-icon">
-                                      <img src="assets/images/funfact/icons/2.png" alt="funfact icon">
-                                  </div>
-                                  <div class="funfact__item-content">
-                                      <h3><span>5</span>+</h3>
-                                      <p>Meses</p>
-                                  </div>
-                              </li>
-                              <li class="funfact__item">
-                                  <div class="funfact__item-icon">
-                                      <img src="assets/images/funfact/icons/3.png" alt="funfact icon">
-                                  </div>
-                                  <div class="funfact__item-content">
-                                      <h3><span>50</span>+</h3>
-                                      <p>Clientes</p>
-                                  </div>
-                              </li>
-                          </ul>
-                          <a href="#" class="custom-btn"><span>Ver galería</span></a>
+                          <p>
+                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
+                              laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
+                              deserunt veniam iusto cumque animi?
+                          </p>
+                          <p>
+                              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
+                              laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
+                              deserunt veniam iusto cumque animi?
+                          </p>
+                          <div class="row g-4 my-5">
+                          </div>
+                          <a href="#" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
                       </div>
                   </div>
                   <div class="col-lg-6">
-                      <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
-                          <img src="assets/images/about/home3/1.png" alt="About image">
+                      <div class="about__image" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="100">
+                          <div class="about__image-lg"><img src="assets/images/about/3.jpg" alt="About image"></div>
+                          <!-- <div class="about__image-sm"><img src="assets/images/about/4.png" alt="About image"></div> -->
                       </div>
                   </div>
               </div>
           </div>
       </div>
   </section>
-  <!-- ========== About Section ends Here========== -->
 
-
-
-  <!-- ========== Service Section start Here========== -->
+ 
   <section class="service padding-top padding-bottom bg--section-color">
       <div class="container">
           <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
@@ -251,7 +242,7 @@
                           <div class="service__item1">
                               <div class="service__item1-inner">
                                   <div class="service__item1-thumb">
-                                      <img src="assets/images/service/1.png" alt="service image">
+                                      <img src="assets/images/service/02.jpg" alt="service image">
                                   </div>
                                   <div class="service__item1-content">
                                       <div class="common-header">
@@ -297,7 +288,7 @@
                           <div class="service__item1">
                               <div class="service__item1-inner">
                                   <div class="service__item1-thumb">
-                                      <img src="assets/images/service/1.png" alt="service image">
+                                      <img src="assets/images/service/03.jpg" alt="service image">
                                   </div>
                                   <div class="service__item1-content">
                                       <div class="common-header">
@@ -346,12 +337,9 @@
           </div>
       </div>
   </section>
-  <!-- ========== Service Section ends Here========== -->
 
 
 
-
-  <!-- ========== Sponsor Section ends Here========== -->
   <div hidden class="sponsor bg--section-color">
       <div class="container">
           <div class="sponsor__wrapper">
@@ -397,10 +385,9 @@
           </div>
       </div>
   </div>
-  <!-- ========== Sponsor Section ends Here========== -->
 
 
-  <!-- ========== Team Section start Here========== -->
+
   <section class="team padding-top padding-bottom">
       <div class="container">
           <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
@@ -418,7 +405,7 @@
                       <div class="team__item1" data-aos="fade-up-right" data-aos-duration="1000">
                           <div class="team__item1-inner">
                               <div class="team__item1-thumb">
-                                  <img src="assets/images/team/style1/1.png" alt="Team image">
+                                  <img src="assets/images/team/style1/05.jpg" alt="Team image">
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
@@ -436,7 +423,7 @@
                       <div class="team__item1" data-aos="fade-up-left" data-aos-duration="1000">
                           <div class="team__item1-inner">
                               <div class="team__item1-thumb">
-                                  <img src="assets/images/team/style1/2.png" alt="Team image">
+                                  <img src="assets/images/team/style1/06.jpg" alt="Team image">
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
@@ -454,7 +441,7 @@
                       <div class="team__item1" data-aos="fade-up-right" data-aos-duration="1000" data-aos-delay="200">
                           <div class="team__item1-inner">
                               <div class="team__item1-thumb">
-                                  <img src="assets/images/team/style1/3.png" alt="Team image">
+                                  <img src="assets/images/team/style1/07.jpg" alt="Team image">
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
@@ -471,7 +458,7 @@
                       <div class="team__item1" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="200">
                           <div class="team__item1-inner">
                               <div class="team__item1-thumb">
-                                  <img src="assets/images/team/style1/4.png" alt="Team image">
+                                  <img src="assets/images/team/style1/08.jpg" alt="Team image">
                               </div>
                               <div class="team__item1-content">
                                   <div class="team__item1-author">
@@ -488,12 +475,9 @@
           </div>
       </div>
   </section>
-  <!-- ========== Team Section ends Here========== -->
 
 
 
-
-  <!-- ========== Faq Section start Here========== -->
   <section class="faq padding-top padding-bottom bg--section-color">
       <div class="container">
           <div class="faq__wrapper">
@@ -605,4 +589,3 @@
           </div>
       </div>
   </section>
-  <!-- ========== Faq Section ends Here========== -->

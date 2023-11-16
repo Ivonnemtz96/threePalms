@@ -3206,7 +3206,7 @@ ol {
   right: 5%;
 }
 .hero__wrapper {
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(0, 0, 0, 0.4);
   background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
