@@ -3779,7 +3779,7 @@ body #magicMouseCursor {
   padding: 40px 20px;
 }
 .feature__item:hover {
-  border-color: rgba(232, 164, 29, 0.5);
+  border-color: rgba(13, 147, 164, 0.5);
 }
 
 .room {
