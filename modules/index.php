@@ -57,7 +57,7 @@
 
 <section>
     <div class="container" style="margin-top: 6rem;" data-aos="fade-up" data-aos-duration="1000">
-        <div class="section-header__content text-center" style="margin-bottom: 3rem;">
+        <div class="section-header__content text-center" style="margin-bottom: 5rem;">
             <h2>Three Palms</h2>
             <h6>
                 Tu mejor opción para tus rentas vacacionales
@@ -95,7 +95,7 @@
     </div>
 </section>
 
-<section class="about padding-top padding-bottom about--shape">
+<section hidden class="about padding-top padding-bottom about--shape">
     <div class="container">
         <div class="about__wrapper">
             <div class="row flex-lg-row-reverse align-items-center g-5">
@@ -156,7 +156,7 @@
     </div>
 </section>
 
-<section class="ofertas-tours">
+<section class="ofertas-tours" style="margin-top: 5rem;">
     <div class="scroll text2">
         <div>
             Renta<span> con nosotros</span> tenemos <span> grandes decuentos.</span>
@@ -167,111 +167,8 @@
     </div>
 </section>
 
-<section class="feature padding-top padding-bottom bg--section-color">
-    <div class="container">
-        <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
-            <div class="section-header__content">
-                <h2>Nuestros Servicios</h2>
-                <p>Continually productize compelling quality for packed in business consulting elated
-                    Setting up to website and creating pages.
-                </p>
-            </div>
-        </div>
-        <div class="feature__wrapper">
-            <div class="row g-4">
-                <div class="col-xl-3 col-md-6">
-                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000">
-                        <div class="feature__item-inner">
-                            <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/1.png" alt="feature icon">
-                            </div>
-                            <div class="feature__item-content">
-                                <h3>Gestión de la propiedad</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
-                        <div class="feature__item-inner">
-                            <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/8.png" alt="feature icon">
-                            </div>
-                            <div class="feature__item-content">
-                                <h3>Servicios de Mantenimiento</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
-                        <div class="feature__item-inner">
-                            <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/7.png" alt="feature icon">
-                            </div>
-                            <div class="feature__item-content">
-                                <h3>Gestión de servicios <br><br></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-3 col-md-6">
-                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
-                        <div class="feature__item-inner">
-                            <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/6.png" alt="feature icon">
-                            </div>
-                            <div class="feature__item-content">
-                                <h3>Servicios de limpieza</h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
 
-
-<section class="about padding-top padding-bottom about--shape">
-    <div class="container">
-        <div class="about__wrapper">
-            <div class="row g-5">
-                <div class="col-lg-6">
-                    <div class="about__content" data-aos="fade-up-right" data-aos-duration="1000" data-aos-delay="100">
-
-                        <div class="common-header">
-                            <h2>Sobre Alan González</h2>
-                            <p class="subtitle">Director & CEO</p>
-                        </div>
-                        <p>
-                            Alan González es una persona que disfruta mucho el tiempo de calidad con su familia,
-                            atezoro mucho las experiencias y recuerdos con mis seres queridos. <br> Mi carrera dio
-                            inicio
-                            trabajando como recepcionista en un pequeño hotel en Cabo San Lucas encontrando el éxito por
-                            diferentes empresas hasta hasta que llegue como Guest Experience Manager en uno de los
-                            corporativos más reconocidos a nivel mundial. Ahí decidí emprender mi propio proyecto y
-                            continuar haciendo lo que amo, ser anfitrión y crear memorias que perduren para toda la
-                            vida.
-                        </p>
-                        <div class="row g-4 my-5">
-                        </div>
-                        <a href="about.php" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
-                    </div>
-                </div>
-                <div class="col-lg-6">
-                    <div class="about__image" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="100">
-                        <div class="about__image-lg"><img src="assets/images/about/06.jpg" alt="About image"></div>
-                        <!-- <div class="about__image-sm"><img src="assets/images/about/4.png" alt="About image"></div> -->
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
-
-<section class="service padding-top padding-bottom bg--section-color">
+<section  class="service padding-top padding-bottom bg--section-color">
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
@@ -387,51 +284,109 @@
 
 
 
-<div hidden class="sponsor bg--section-color">
+
+
+<section class="about padding-top padding-bottom about--shape">
     <div class="container">
-        <div class="sponsor__wrapper">
-            <div class="sponsor__slider swiper">
-                <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                        <div class="sponsor__item">
-                            <img src="assets/images/sponsor/1.png" alt="Sponsor image">
+        <div class="about__wrapper">
+            <div class="row g-5">
+                <div class="col-lg-6">
+                    <div class="about__content" data-aos="fade-up-right" data-aos-duration="1000" data-aos-delay="100">
+
+                        <div class="common-header">
+                            <h2>Sobre Alan González</h2>
+                            <p class="subtitle">Director & CEO</p>
+                        </div>
+                        <p>
+                            Alan González es una persona que disfruta mucho el tiempo de calidad con su familia,
+                            atezoro mucho las experiencias y recuerdos con mis seres queridos. <br> Mi carrera dio
+                            inicio
+                            trabajando como recepcionista en un pequeño hotel en Cabo San Lucas encontrando el éxito por
+                            diferentes empresas hasta hasta que llegue como Guest Experience Manager en uno de los
+                            corporativos más reconocidos a nivel mundial. Ahí decidí emprender mi propio proyecto y
+                            continuar haciendo lo que amo, ser anfitrión y crear memorias que perduren para toda la
+                            vida.
+                        </p>
+                        <div class="row g-4 my-5">
+                        </div>
+                        <a href="about.php" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
+                    </div>
+                </div>
+                <div class="col-lg-6">
+                    <div class="about__image" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="100">
+                        <div class="about__image-lg"><img src="assets/images/about/06.jpg" alt="About image"></div>
+                        <!-- <div class="about__image-sm"><img src="assets/images/about/4.png" alt="About image"></div> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section class="feature padding-top padding-bottom bg--section-color">
+    <div class="container">
+        <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
+            <div class="section-header__content">
+                <h2>Nuestros Servicios</h2>
+                <p>Continually productize compelling quality for packed in business consulting elated
+                    Setting up to website and creating pages.
+                </p>
+            </div>
+        </div>
+        <div class="feature__wrapper">
+            <div class="row g-4">
+                <div class="col-xl-3 col-md-6">
+                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000">
+                        <div class="feature__item-inner">
+                            <div class="feature__item-thumb">
+                                <img src="assets/images/feature/icons/1.png" alt="feature icon">
+                            </div>
+                            <div class="feature__item-content">
+                                <h3>Gestión de la propiedad</h3>
+                            </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="sponsor__item">
-                            <img src="assets/images/sponsor/2.png" alt="Sponsor image">
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
+                        <div class="feature__item-inner">
+                            <div class="feature__item-thumb">
+                                <img src="assets/images/feature/icons/8.png" alt="feature icon">
+                            </div>
+                            <div class="feature__item-content">
+                                <h3>Servicios de Mantenimiento</h3>
+                            </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="sponsor__item">
-                            <img src="assets/images/sponsor/3.png" alt="Sponsor image">
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
+                        <div class="feature__item-inner">
+                            <div class="feature__item-thumb">
+                                <img src="assets/images/feature/icons/7.png" alt="feature icon">
+                            </div>
+                            <div class="feature__item-content">
+                                <h3>Gestión de servicios <br><br></h3>
+                            </div>
                         </div>
                     </div>
-                    <div class="swiper-slide">
-                        <div class="sponsor__item">
-                            <img src="assets/images/sponsor/4.png" alt="Sponsor image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="sponsor__item">
-                            <img src="assets/images/sponsor/5.png" alt="Sponsor image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="sponsor__item">
-                            <img src="assets/images/sponsor/6.png" alt="Sponsor image">
-                        </div>
-                    </div>
-                    <div class="swiper-slide">
-                        <div class="sponsor__item">
-                            <img src="assets/images/sponsor/6.png" alt="Sponsor image">
+                </div>
+                <div class="col-xl-3 col-md-6">
+                    <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
+                        <div class="feature__item-inner">
+                            <div class="feature__item-thumb">
+                                <img src="assets/images/feature/icons/6.png" alt="feature icon">
+                            </div>
+                            <div class="feature__item-content">
+                                <h3>Servicios de limpieza</h3>
+                            </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+</section>
 
 
 
@@ -636,3 +591,106 @@
         </div>
     </div>
 </section>
+
+
+<!-- ========== Testimonial Section ends Here========== -->
+<section class="testimonial padding-top padding-bottom">
+    <div class="container">
+        <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
+            <div class="section-header__content">
+                <h2>¿Qué dicen nuestros clientes?</h2>
+            </div>
+        </div>
+        <div class="testimonial__slider swiper" data-aos="fade-up" data-aos-duration="1000">
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="testimonial__item">
+                        <div class="testimonial__item-inner">
+                            <div class="testimonial__item-thumb">
+                                <img src="assets/images/testimonial/author/02.png" alt="author image">
+                            </div>
+                            <div class="testimonial__item-content">
+                                <p>
+                                    Gran lugar para hospedarme con la familia. Me hospedaré aquí la próxima vez que
+                                    venga a la ciudad con la familia.
+                                </p>
+                                <div class="testimonial__item-footer">
+                                    <div class="testimonial__item-author">
+                                        <h5>Martin</h5>
+                                        <p>Airbnb</p>
+                                    </div>
+                                    <ul class="rating">
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimonial__item">
+                        <div class="testimonial__item-inner">
+                            <div class="testimonial__item-thumb">
+                                <img src="assets/images/testimonial/author/02.png" alt="author image">
+                            </div>
+                            <div class="testimonial__item-content">
+                                <p>
+                                    Buen lugar para quedarse con amigos y familia. Alan es un excelente anfitrión, súper
+                                    atento y amable
+                                    Sin duda volvería a reservar con el
+                                </p>
+                                <div class="testimonial__item-footer">
+                                    <div class="testimonial__item-author">
+                                        <h5>Ludwing</h5>
+                                        <p>Airbnb</p>
+                                    </div>
+                                    <ul class="rating">
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <div class="swiper-slide">
+                    <div class="testimonial__item">
+                        <div class="testimonial__item-inner">
+                            <div class="testimonial__item-thumb">
+                                <img src="assets/images/testimonial/author/02.png" alt="author image">
+                            </div>
+                            <div class="testimonial__item-content">
+                                <p>
+                                    Alan was amazing! Super proactive, there to greet us in person even though our
+                                    check-in time changed. The property is beautiful, the location is perfect and we had
+                                    an amazing time. I would highly recommend this space to anyone visiting Cabo.
+                                </p>
+                                <div class="testimonial__item-footer">
+                                    <div class="testimonial__item-author">
+                                        <h5>Mickie</h5>
+                                        <p>Airbnb</p>
+                                    </div>
+                                    <ul class="rating">
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                        <li class="rating__star"><i class="fa-solid fa-star"></i></li>
+                                    </ul>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<!-- ========== Testimonial Section ends Here========== -->
