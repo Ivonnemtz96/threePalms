@@ -35,13 +35,13 @@
                      <div class="brand-logo d-none d-lg-inline-block">
                          <div class="logo">
                              <a href="index.php">
-                                 <img src="assets/images/logo/01.png?=1" style="width: 8rem;" alt="logo">
+                                 <img src="assets/images/logo/logo-bco.png?=1" style="width: 8rem;" alt="logo">
                              </a>
                          </div>
                      </div>
                      <div class="header-wrapper justify-content-lg-end">
                          <div class="mobile-logo d-lg-none">
-                             <a href="index.php"><img src="assets/images/logo/01.png?=1" style="width: 8rem;" alt="logo"></a>
+                             <a href="index.php"><img src="assets/images/logo/logo-bco.png?=1" style="width: 8rem;" alt="logo"></a>
                          </div>
                          <div class="menu-area">
                              <ul class="menu">
