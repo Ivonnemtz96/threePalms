@@ -195,7 +195,7 @@
                     <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
                         <div class="feature__item-inner">
                             <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/2.png" alt="feature icon">
+                                <img src="assets/images/feature/icons/8.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
                                 <h3>Servicios de Mantenimiento</h3>
@@ -207,7 +207,7 @@
                     <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
                         <div class="feature__item-inner">
                             <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/3.png" alt="feature icon">
+                                <img src="assets/images/feature/icons/7.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
                                 <h3>Gestión de servicios <br><br></h3>
@@ -219,7 +219,7 @@
                     <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
                         <div class="feature__item-inner">
                             <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/4.png" alt="feature icon">
+                                <img src="assets/images/feature/icons/6.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
                                 <h3>Servicios de limpieza</h3>
@@ -261,7 +261,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="about__image" data-aos="fade-up-left" data-aos-duration="1000" data-aos-delay="100">
-                        <div class="about__image-lg"><img src="assets/images/about/3.jpg" alt="About image"></div>
+                        <div class="about__image-lg"><img src="assets/images/about/06.jpg" alt="About image"></div>
                         <!-- <div class="about__image-sm"><img src="assets/images/about/4.png" alt="About image"></div> -->
                     </div>
                 </div>
