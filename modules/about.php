@@ -37,23 +37,20 @@
                             estándares modernos.
                         </p>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto nostrum deleniti cum
-                            molestias ex totam odio quae dolores magnam alias ullam repudiandae tempore consequatur
-                            blanditiis obcaecati, ut voluptatibus, nisi delectus, earum unde. Et deserunt doloribus quia
-                            fugit laudantium quos id
+                            Tiene aproximadamente funcionando hace 1 año hemos crecido de manera orgánica
+                            conforme lo ah solicitado el Mercado. Nuestro enfoque es brindar una experiencia con altos
+                            estándares de lujo personalizando cada estadía a las necesidades de nuestros dueños y
+                            huéspedes. Creemos que manejar lo básico como la administración y el mantenimiento es lo
+                            mínimo pero cuando dominas por completo el tema puedes ir más haya y crear momentos
+                            inolvidables y genuinos.
                         </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nisi accusamus porro libero dolore
-                            eaque voluptate facilis ipsa asperiores esse. Aperiam labore soluta maxime incidunt quas
-                            dolorum eius eaque, asperiores amet quaerat, exercitationem iure qui optio. Placeat rem
-                            culpa consectetur magni.
-                        </p>
+
                         <a href="galeria.php" class="custom-btn texto-bco"><span>Ver galería</span></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
                     <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
-                        <img src="assets/images/about/home3/2.jpg" alt="About image">
+                        <img src="assets/images/about/home3/04.jpg" alt="About image">
                     </div>
                 </div>
             </div>
@@ -64,7 +61,6 @@
 
 
 
-<!-- ========== Feature Section start Here========== -->
 <section class="feature padding-top padding-bottom bg--section-color">
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
@@ -93,7 +89,7 @@
                     <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="200">
                         <div class="feature__item-inner">
                             <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/2.png" alt="feature icon">
+                                <img src="assets/images/feature/icons/8.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
                                 <h3>Servicios de Mantenimiento</h3>
@@ -105,7 +101,7 @@
                     <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="300">
                         <div class="feature__item-inner">
                             <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/3.png" alt="feature icon">
+                                <img src="assets/images/feature/icons/7.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
                                 <h3>Gestión de servicios <br><br></h3>
@@ -117,7 +113,7 @@
                     <div class="feature__item" data-aos="fade-up" data-aos-duration="1000" data-aos-delay="400">
                         <div class="feature__item-inner">
                             <div class="feature__item-thumb">
-                                <img src="assets/images/feature/icons/5.png" alt="feature icon">
+                                <img src="assets/images/feature/icons/6.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
                                 <h3>Servicios de limpieza</h3>
@@ -129,17 +125,16 @@
         </div>
     </div>
 </section>
-<!-- ========== Feature Section Ends Here========== -->
 
 
 <!-- ========== About Section start Here========== -->
-<section class="about padding-top padding-bottom " >
+<section class="about padding-top padding-bottom ">
     <div class="container">
         <div class="about__wrapper">
             <div class="row flex-lg-row-reverse align-items-center g-5">
                 <div class="col-lg-6">
                     <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
-                        <img src="assets/images/about/home3/03.jpg" alt="About image">
+                        <img src="assets/images/about/home3/05.jpg" alt="About image">
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -196,19 +191,14 @@
                             <p class="subtitle">Director & CEO</p>
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, mollitia sunt
-                            voluptates cum recusandae accusamus dolor unde repudiandae cumque dolores, obcaecati,
-                            nesciunt at! Praesentium minus architecto quam soluta ipsa? Et!
-                        </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
-                            laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
-                            deserunt veniam iusto cumque animi?
-                        </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
-                            laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
-                            deserunt veniam iusto cumque animi?
+                            Alan González es una persona que disfruta mucho el tiempo de calidad con su familia,
+                            atezoro mucho las experiencias y recuerdos con mis seres queridos. <br> Mi carrera dio
+                            inicio
+                            trabajando como recepcionista en un pequeño hotel en Cabo San Lucas encontrando el éxito por
+                            diferentes empresas hasta hasta que llegue como Guest Experience Manager en uno de los
+                            corporativos más reconocidos a nivel mundial. Ahí decidí emprender mi propio proyecto y
+                            continuar haciendo lo que amo, ser anfitrión y crear memorias que perduren para toda la
+                            vida.
                         </p>
                         <div class="row g-4 my-5">
                         </div>
