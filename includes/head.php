@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="assets/css/lightcase.css">
     <link rel="stylesheet" href="assets/css/swiper-bundle.min.css">
     <link rel="stylesheet" href="assets/css/flatpickr.min.css">
+    <link rel="stylesheet" href="assets/css/ofertas.css">
 
     <!-- main css for template -->
     <link rel="stylesheet" href="assets/css/style.css">

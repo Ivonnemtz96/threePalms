@@ -230,6 +230,17 @@
     </div>
 </section>
 
+<section class="ofertas-tours">
+    <div class="scroll text2">
+        <div>
+            Special Offer!<span> Blah Blah Blah Blah! Blah!</span>Special Offer!<span> Blah Blah Blah Blah! Blah!</span>
+        </div>
+        <div>
+            Special Offer!<span> Blah Blah Blah Blah! Blah!</span>Special Offer!<span>Blah Blah Blah Blah! Blah!</span>
+        </div>
+    </div>
+</section>
+
 <section class="feature padding-top padding-bottom bg--section-color">
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
@@ -308,19 +319,12 @@
                             <p class="subtitle">Director & CEO</p>
                         </div>
                         <p>
-                            Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, mollitia sunt
-                            voluptates cum recusandae accusamus dolor unde repudiandae cumque dolores, obcaecati,
-                            nesciunt at! Praesentium minus architecto quam soluta ipsa? Et!
-                        </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
-                            laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
-                            deserunt veniam iusto cumque animi?
-                        </p>
-                        <p>
-                            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit iste porro inventore. Id
-                            laudantium iusto ipsa repellat temporibus! Ipsa, vero? Labore debitis voluptate quis. Amet
-                            deserunt veniam iusto cumque animi?
+                            Alan González es una persona que disfruta mucho el tiempo de calidad con su familia,
+                            atezoro mucho las experiencias y recuerdos con mis seres queridos. <br> Mi carrera dio inicio
+                            trabajando como recepcionista en un pequeño hotel en Cabo San Lucas encontrando el éxito por
+                            diferentes empresas hasta hasta que llegue como Guest Experience Manager en uno de los
+                            corporativos más reconocidos a nivel mundial. Ahí decidí emprender mi propio proyecto y
+                            continuar haciendo lo que amo, ser anfitrión y crear memorias que perduren para toda la vida.
                         </p>
                         <div class="row g-4 my-5">
                         </div>
