@@ -2419,10 +2419,10 @@ ol {
   }
 }
 .header-section.header-1 {
-  background: #13172B;
+  background: #2184B2;
 }
 .header-section.header-1 .header-top {
-  background-color: #2184b2;
+  background-color: #fff;
 }
 .header-section.header-1 .header-top * {
   color: #1F3347;
@@ -3206,7 +3206,7 @@ ol {
   right: 5%;
 }
 .hero__wrapper {
-  background-color: rgba(0, 0, 0, 0.4);
+  background-color: rgba(0, 0, 0, 0.1);
   background-blend-mode: overlay;
   background-size: cover;
   background-position: center;
@@ -3909,7 +3909,7 @@ body #magicMouseCursor {
   color: #70717B;
 }
 .room__item--style2 .room__item-thumb::after {
-  background-image: linear-gradient(179.89deg, rgba(0, 0, 0, 0) 40.84%, rgba(7, 7, 7, 0.9) 76.2%);
+  background-image: linear-gradient(179.89deg, rgba(0, 0, 0, 0) 80%, rgba(7, 7, 7, 0.9) 100%);
 }
 .room__item--style2 .room__item-content {
   width: 100%;
