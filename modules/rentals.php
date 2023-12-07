@@ -63,7 +63,7 @@
                                         <h3>
                                             <a target="_blank"
                                                 href="https://www.airbnb.mx/rooms/761039193484788577?adults=1&viralityEntryPoint=1&s=76&unique_share_id=36C0A151-782F-4894-B24B-F02D6A2848E0&_branch_match_id=1251222817452091068&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zKS9LLTdUP8siJMvRIq8p2TQIAaTimyhsAAAA%3D&_set_bev_on_new_domain=1699552993_ZWQ2ZjY0N2RiNjc3&source_impression_id=p3_1700154445_QywZAiIGkpU5yzyY">
-                                                Casa Oceano y Montaña
+                                                Casa Océano
                                             </a>
                                         </h3>
                                         <p>8 huéspedes</p>
@@ -94,7 +94,7 @@
                                         <h3 style="font-size: 25px;">
                                             <a target="_blank"
                                                 href="https://www.airbnb.mx/rooms/865256515733229431?adults=1&viralityEntryPoint=1&s=76&unique_share_id=F691B864-F927-4BE6-A33B-476A3E487DEF&_branch_match_id=1251222817452091068&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zKS9LLTdV3SQqwCDdKr8p2TQIAME%2Fu8RsAAAA%3D&_set_bev_on_new_domain=1699552993_ZWQ2ZjY0N2RiNjc3&source_impression_id=p3_1700154445_L2Ta3lejfksfpIwz">
-                                                Residencia de playa en el centro
+                                                Residencia de playa
                                             </a>
                                         </h3>
                                         <p>6 huéspedes</p>
@@ -125,7 +125,7 @@
                                         <h3>
                                             <a target="_blank"
                                                 href="https://www.airbnb.mx/rooms/868216534973508262?adults=1&viralityEntryPoint=1&s=76&unique_share_id=F35ECE44-F2C8-4E56-88AE-139E1D13AFED&_branch_match_id=1251222817452091068&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zKS9LLTdVPNExPzzXOrMp2TQIAR4ov6hsAAAA%3D&_set_bev_on_new_domain=1699552993_ZWQ2ZjY0N2RiNjc3&source_impression_id=p3_1700154445_ASul15cxsbrPj%2Fu%2B">
-                                                Increíble vista al Arco
+                                                Increíble Vista al Arco
                                             </a>
                                         </h3>
                                         <p>8 huéspedes</p>
@@ -218,7 +218,7 @@
                                         <h3>
                                             <a target="_blank"
                                                 href="https://www.airbnb.mx/rooms/935929822870675645?adults=1&viralityEntryPoint=1&s=76&unique_share_id=2D769C58-6583-4F3E-87FF-E1569815033B&_branch_match_id=1251222817452091068&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zKS9LLTdUvDnEvjTIsqMp2TQIAqEPo2hsAAAA%3D&_set_bev_on_new_domain=1699552993_ZWQ2ZjY0N2RiNjc3&source_impression_id=p3_1700154447_X%2BWZOYIMaHGfTuTq">
-                                                Casa estilo moderno
+                                                Casa Estilo Moderno
                                             </a>
                                         </h3>
                                         <p>5 huéspedes</p>
@@ -249,7 +249,7 @@
                                         <h3>
                                             <a target="_blank"
                                                 href="https://www.airbnb.mx/rooms/624602666646089517?adults=1&viralityEntryPoint=1&s=76&unique_share_id=03A9EB75-3B00-4E75-B5EB-703884DFE484&_branch_match_id=1251222817452091068&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zKS9LLTdUP9i5Oda4orsp2TQIAhk4GGBsAAAA%3D&_set_bev_on_new_domain=1699552993_ZWQ2ZjY0N2RiNjc3&source_impression_id=p3_1700154448_2hd4KWya31PGBkQX">
-                                                Villa con vista al Arco
+                                                Villa Vista al Arco
                                             </a>
                                         </h3>
                                         <p>12 huéspedes</p>
@@ -280,7 +280,7 @@
                                         <h3>
                                             <a target="_blank"
                                                 href="https://www.airbnb.mx/rooms/559355834922487795?adults=1&viralityEntryPoint=1&s=76&unique_share_id=35D36B8C-C86E-4C52-A076-430D24FC3790&_branch_match_id=1251222817452091068&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zKS9LLTdUvMS8yLIworcp2TQIAVhzTKhsAAAA%3D&_set_bev_on_new_domain=1699552993_ZWQ2ZjY0N2RiNjc3&source_impression_id=p3_1700154448_tGv96QZrk%2FN3ev9g">
-                                                Condominio en San Lucas
+                                                Condominio San Lucas
                                             </a>
                                         </h3>
                                         <p>6 huéspedes</p>
@@ -341,7 +341,7 @@
                                         <h3>
                                             <a target="_blank"
                                                 href="https://www.airbnb.mx/rooms/608116653168367094?adults=1&viralityEntryPoint=1&s=76&unique_share_id=41F80678-B5A4-4E3A-8CC9-D68E6C8ACF56&_branch_match_id=1251222817452091068&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zKS9LLTdX3jAwyyDetqMp2TQIAFZNDMxsAAAA%3D&_set_bev_on_new_domain=1699552993_ZWQ2ZjY0N2RiNjc3&source_impression_id=p3_1700154449_12GUQTDn8XyIFUKD">
-                                                Condominio en San Lucas
+                                                San Lucas
                                             </a>
                                         </h3>
                                         <p>6 huéspedes</p>
