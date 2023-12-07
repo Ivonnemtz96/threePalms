@@ -56,15 +56,14 @@
 
 
 <!-- ========== Popular Room Section start Here========== -->
-<section class="room room--popular padding-top padding-bottom">
+<section class="room room--popular padding-top padding-bottom" style="padding-bottom: 50px;">
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
                 <h2>Three Palms</h2>
-                <p>
-                    Cada viaje es único. Ya sea que necesites una vista frente al mar o quieras celebrar con tus seres
-                    queridos, hay una villa diseñada especialmente para ti en Los Cabos.
-                </p>
+                <h5>
+                    Tu mejor opción para tus rentas vacacionales
+                </h5>
             </div>
         </div>
         <div class="room__wrapper" data-aos="fade-up" data-aos-duration="1000">
@@ -78,15 +77,10 @@
                             <div class="room__item-content">
                                 <div class="room__item-header">
                                     <div class="room__item-name">
-                                        <ul class="rating">
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                        </ul>
-                                        <h3><a href="room-details.html">Family Room</a></h3>
-                                        <a href="#" class="custom-btn custom-btn--bordered"><span>Reservar Ahora</span></a>
+                                        <h3><a href="#" onclick="cabo_poolside()">Condominio en Tezal</a></h3>
+                                        <button onclick="cabo_poolside()" class="custom-btn custom-btn--bordered">
+                                            <span>Reservar Ahora</span>
+                                        </button>
                                     </div>
                                 </div>
                             </div>
@@ -99,26 +93,17 @@
                             <div class="room__item room__item--style2">
                                 <div class="room__item-inner">
                                     <div class="room__item-thumb">
-                                        <img src="assets/images/room/home2/sm1.png" alt="room image">
+                                        <img src="assets/images/room/home2/sm1.jpg" alt="room image">
                                     </div>
                                     <div class="room__item-content">
                                         <div class="room__item-header">
                                             <div class="room__item-name">
-                                                <ul class="rating">
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                </ul>
-                                                <h3><a href="room-details.html">Delux Room</a></h3>
-                                                <a href="#" class="custom-btn custom-btn--bordered"><span>Booking
-                                                        Now</span></a>
-                                            </div>
-
-                                            <div class="room__item-price">
-                                                <h3>$320</h3>
-                                                <p>Per Night</p>
+                                                <h3><a href="#" onclick="residencia_playa()">Residencia De Playa</a>
+                                                </h3>
+                                                <button onclick="residencia_playa()"
+                                                    class="custom-btn custom-btn--bordered">
+                                                    <span>Reserva Ahora</span>
+                                                </button>
                                             </div>
                                         </div>
                                     </div>
@@ -130,26 +115,20 @@
                             <div class="room__item room__item--style2">
                                 <div class="room__item-inner">
                                     <div class="room__item-thumb">
-                                        <img src="assets/images/room/home2/sm2.png" alt="room image">
+                                        <img src="assets/images/room/home2/sm2.jpg" alt="room image">
                                     </div>
                                     <div class="room__item-content">
                                         <div class="room__item-header">
                                             <div class="room__item-name">
-                                                <ul class="rating">
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                    <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                                </ul>
-                                                <h3><a href="room-details.html">Single Room</a></h3>
-                                                <a href="#" class="custom-btn custom-btn--bordered"><span>Booking
-                                                        Now</span></a>
-                                            </div>
-
-                                            <div class="room__item-price">
-                                                <h3>$200</h3>
-                                                <p>Per Night</p>
+                                                <h3>
+                                                    <a onclick="estilo_moderno()" href="#">
+                                                        Villa Estilo Moderno
+                                                    </a>
+                                                </h3>
+                                                <button onclick="estilo_moderno()"
+                                                    class="custom-btn custom-btn--bordered">
+                                                    <span>Reserva Ahora</span>
+                                                </button>
                                             </div>
                                         </div>
                                     </div>
@@ -164,25 +143,15 @@
                     <div class="room__item room__item--style2">
                         <div class="room__item-inner">
                             <div class="room__item-thumb">
-                                <img src="assets/images/room/home2/2.png" alt="room image">
+                                <img src="assets/images/room/home2/02.jpg" alt="room image">
                             </div>
                             <div class="room__item-content">
                                 <div class="room__item-header">
                                     <div class="room__item-name">
-                                        <ul class="rating">
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                            <li class="rating__star"><i class="fa-solid fa-star"></i></li>
-                                        </ul>
-                                        <h3><a href="room-details.html">Couple Room</a></h3>
-                                        <a href="#" class="custom-btn custom-btn--bordered"><span>Booking Now</span></a>
-                                    </div>
-
-                                    <div class="room__item-price">
-                                        <h3>$350</h3>
-                                        <p>Per Night</p>
+                                        <h3><a href="#" onclick="vista_arco()">Vista al Arco</a></h3>
+                                        <button onclick="vista_arco()" class="custom-btn custom-btn--bordered">
+                                            <span>Reservar Ahora</span>
+                                        </button>
                                     </div>
                                 </div>
                             </div>
@@ -190,6 +159,9 @@
                     </div>
                 </div>
 
+                <div class="col-md-12 text-center mt-5">
+                    <a href="rentals.php" class="custom-btn"><span>Ver más departamentos</span></a>
+                </div>
             </div>
         </div>
     </div>
@@ -210,7 +182,7 @@
                             <h2>Three Palms</h2>
                         </div>
                         <p>
-                            Three Palms es una agencia de gestión de propiedades y planificación de vacaciones que
+                            Somos una agencia de gestión de propiedades y planificación de vacaciones que
                             está aquí para cambiar el juego, en comparación con otras empresas de gestión de
                             propiedades nos centramos en crear experiencias únicas y memorables basadas en las
                             necesidades y preferencias de los huéspedes. Ofrecemos un servicio de lujo basado en altos
@@ -250,7 +222,7 @@
                 </div>
                 <div class="col-lg-6">
                     <div class="about__image" data-aos="fade-up-right" data-aos-duration="1000">
-                        <img src="assets/images/about/home3/2.jpg" alt="About image">
+                        <img src="assets/images/about/home3/3.jpg" alt="About image">
                     </div>
                 </div>
             </div>
