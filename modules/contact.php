@@ -1,12 +1,12 @@
 <!-- ================> Page header start here <================== -->
-<section class="page-header bg--cover" style="background-image: url(assets/images/header/bg.jpg);">
+<section class="page-header bg--cover" style="background-image: url(assets/images/header/02.jpg);">
     <div class="container">
         <div class="page-header__content text-center">
             <h2>Contáctanos</h2>
             <nav style="--bs-breadcrumb-divider: '/';" aria-label="breadcrumb">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Contacto</li>
+                    <li class="breadcrumb-item active" aria-current="page" style="color: #fff;">Contacto</li>
                 </ol>
             </nav>
         </div>

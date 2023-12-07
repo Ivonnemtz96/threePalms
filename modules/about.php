@@ -1,12 +1,12 @@
 <!-- ================> Page header start here <================== -->
-<section class="page-header bg--cover" style="background-image: url(assets/images/header/bg.jpg);">
+<section class="page-header bg--cover" style="background-image: url(assets/images/header/03.jpg);">
     <div class="container">
         <div class="page-header__content text-center">
             <h2>Sobre Nosotros</h2>
             <nav style="--bs-breadcrumb-divider: '/';" aria-label="breadcrumb">
                 <ol class="breadcrumb justify-content-center mb-0">
                     <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
-                    <li class="breadcrumb-item active" aria-current="page">Three Palms</li>
+                    <li class="breadcrumb-item active" aria-current="page" style="color: #fff;">Three Palms</li>
                 </ol>
             </nav>
         </div>
