@@ -56,139 +56,44 @@
 
 
 <section>
-    <div class="container">
+    <div class="container" style="margin-top: 6rem;" data-aos="fade-up" data-aos-duration="1000">
+        <div class="section-header__content text-center" style="margin-bottom: 3rem;">
+            <h2>Three Palms</h2>
+            <h6>
+                Tu mejor opción para tus rentas vacacionales
+            </h6>
+        </div>
         <div class="row">
-            <div class="col-md-3">
-                <div class="container">
-                <img src="assets/images/room/home2/01.jpg" alt="Three palms">
-                </div>
+            <div class="col-6 col-md-3 align-content-center text-center">
+                <a onclick="cabo_poolside()">
+                    <img style="border-radius: 10rem;" src="assets/images/room/home2/01.jpg" alt="Three palms">
+                </a>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="cabo_poolside()">Condominio en Tezal</a></h3>
             </div>
-            <div class="col-md-3">
-
+            <div class="col-6 col-md-3 align-content-center text-center">
+                <a onclick="residencia_playa()">
+                    <img style="border-radius: 10rem;" src="assets/images/room/home2/03.jpg" alt="Three palms">
+                </a>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="residencia_playa()">Residencia De Playa</a></h3>
             </div>
-            <div class="col-md-3">
-
+            <div class="col-6 col-md-3 align-content-center text-center">
+                <a onclick="estilo_moderno()">
+                    <img style="border-radius: 10rem;" src="assets/images/room/home2/04.jpg" alt="Three palms">
+                </a>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="estilo_moderno()">Villa Estilo Moderno</a></h3>
             </div>
-            <div class="col-md-3">
-
+            <div class="col-6 col-md-3 align-content-center text-center">
+                <a onclick="vista_arco()">
+                    <img style="border-radius: 10rem;" src="assets/images/room/home2/05.jpg" alt="Three palms">
+                </a>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="vista_arco()">Vista al Arco</a></h3>
             </div>
-        </div>
-    </div>
-</section>
-
-<!-- ========== Popular Room Section start Here========== -->
-<section class="room room--popular padding-top padding-bottom" style="padding-bottom: 50px;">
-    <div class="container">
-        <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
-            <div class="section-header__content">
-                <h2>Three Palms</h2>
-                <h5>
-                    Tu mejor opción para tus rentas vacacionales
-                </h5>
-            </div>
-        </div>
-        <div class="room__wrapper" data-aos="fade-up" data-aos-duration="1000">
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 ">
-                    <div class="room__item room__item--style2">
-                        <div class="room__item-inner">
-                            <div class="room__item-thumb">
-                                <img src="assets/images/room/home2/01.jpg" alt="room image">
-                            </div>
-                            <div class="room__item-content">
-                                <div class="room__item-header">
-                                    <div class="room__item-name">
-                                        <h3><a href="#" onclick="cabo_poolside()">Condominio en Tezal</a></h3>
-                                        <button onclick="cabo_poolside()" class="custom-btn custom-btn--bordered">
-                                            <span>Reservar Ahora</span>
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="row g-4">
-                        <div class="col-12">
-                            <div class="room__item room__item--style2">
-                                <div class="room__item-inner">
-                                    <div class="room__item-thumb">
-                                        <img src="assets/images/room/home2/sm1.jpg" alt="room image">
-                                    </div>
-                                    <div class="room__item-content">
-                                        <div class="room__item-header">
-                                            <div class="room__item-name">
-                                                <h3><a href="#" onclick="residencia_playa()">Residencia De Playa</a>
-                                                </h3>
-                                                <button onclick="residencia_playa()"
-                                                    class="custom-btn custom-btn--bordered">
-                                                    <span>Reserva Ahora</span>
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="col-12">
-                            <div class="room__item room__item--style2">
-                                <div class="room__item-inner">
-                                    <div class="room__item-thumb">
-                                        <img src="assets/images/room/home2/sm2.jpg" alt="room image">
-                                    </div>
-                                    <div class="room__item-content">
-                                        <div class="room__item-header">
-                                            <div class="room__item-name">
-                                                <h3>
-                                                    <a onclick="estilo_moderno()" href="#">
-                                                        Villa Estilo Moderno
-                                                    </a>
-                                                </h3>
-                                                <button onclick="estilo_moderno()"
-                                                    class="custom-btn custom-btn--bordered">
-                                                    <span>Reserva Ahora</span>
-                                                </button>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-
-                <div class="col-lg-4 col-md-6">
-                    <div class="room__item room__item--style2">
-                        <div class="room__item-inner">
-                            <div class="room__item-thumb">
-                                <img src="assets/images/room/home2/02.jpg" alt="room image">
-                            </div>
-                            <div class="room__item-content">
-                                <div class="room__item-header">
-                                    <div class="room__item-name">
-                                        <h3><a href="#" onclick="vista_arco()">Vista al Arco</a></h3>
-                                        <button onclick="vista_arco()" class="custom-btn custom-btn--bordered">
-                                            <span>Reservar Ahora</span>
-                                        </button>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="col-md-12 text-center mt-5">
-                    <a href="rentals.php" class="custom-btn"><span>Ver más departamentos</span></a>
-                </div>
+            <div class="col-md-12 text-center" style="margin-top: 2rem;">
+                <a href="rentals.php" class="custom-btn"><span>Ver propiedades</span></a>
             </div>
         </div>
     </div>
 </section>
-<!-- ========== Popular Room Section ends Here========== -->
-
 
 <section class="about padding-top padding-bottom about--shape">
     <div class="container">
@@ -254,10 +159,10 @@
 <section class="ofertas-tours">
     <div class="scroll text2">
         <div>
-            Special Offer!<span> Blah Blah Blah Blah! Blah!</span>Special Offer!<span> Blah Blah Blah Blah! Blah!</span>
+            Renta<span> con nosotros</span> tenemos <span> grandes decuentos.</span>
         </div>
         <div>
-            Special Offer!<span> Blah Blah Blah Blah! Blah!</span>Special Offer!<span>Blah Blah Blah Blah! Blah!</span>
+            Renta ahora<span> y disfruta de </span>estos beneficios<span>ve nuestras propiedades</span>
         </div>
     </div>
 </section>
@@ -341,11 +246,13 @@
                         </div>
                         <p>
                             Alan González es una persona que disfruta mucho el tiempo de calidad con su familia,
-                            atezoro mucho las experiencias y recuerdos con mis seres queridos. <br> Mi carrera dio inicio
+                            atezoro mucho las experiencias y recuerdos con mis seres queridos. <br> Mi carrera dio
+                            inicio
                             trabajando como recepcionista en un pequeño hotel en Cabo San Lucas encontrando el éxito por
                             diferentes empresas hasta hasta que llegue como Guest Experience Manager en uno de los
                             corporativos más reconocidos a nivel mundial. Ahí decidí emprender mi propio proyecto y
-                            continuar haciendo lo que amo, ser anfitrión y crear memorias que perduren para toda la vida.
+                            continuar haciendo lo que amo, ser anfitrión y crear memorias que perduren para toda la
+                            vida.
                         </p>
                         <div class="row g-4 my-5">
                         </div>
