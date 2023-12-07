@@ -118,7 +118,7 @@
     //====<<  Custom cursor>>==========
     var kursorx = new kursor({
         type: 1,
-        color: '#2184b2'
+        color: '#0b1942'
     })
 
     //======================Home 2 gallery grid isotop start

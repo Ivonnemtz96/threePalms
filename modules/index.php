@@ -55,6 +55,27 @@
 </section>
 
 
+<section>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-3">
+                <div class="container">
+                <img src="assets/images/room/home2/01.jpg" alt="Three palms">
+                </div>
+            </div>
+            <div class="col-md-3">
+
+            </div>
+            <div class="col-md-3">
+
+            </div>
+            <div class="col-md-3">
+
+            </div>
+        </div>
+    </div>
+</section>
+
 <!-- ========== Popular Room Section start Here========== -->
 <section class="room room--popular padding-top padding-bottom" style="padding-bottom: 50px;">
     <div class="container">
