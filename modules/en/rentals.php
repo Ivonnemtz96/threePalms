@@ -125,7 +125,7 @@
                                         <h3>
                                             <a target="_blank"
                                                 href="https://www.airbnb.mx/rooms/868216534973508262?adults=1&viralityEntryPoint=1&s=76&unique_share_id=F35ECE44-F2C8-4E56-88AE-139E1D13AFED&_branch_match_id=1251222817452091068&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXT0zKS9LLTdVPNExPzzXOrMp2TQIAR4ov6hsAAAA%3D&_set_bev_on_new_domain=1699552993_ZWQ2ZjY0N2RiNjc3&source_impression_id=p3_1700154445_ASul15cxsbrPj%2Fu%2B">
-                                                Incredible View of the Arch
+                                                View of the Arch
                                             </a>
                                         </h3>
                                         <p>8 guest</p>

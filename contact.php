@@ -11,9 +11,9 @@
 <body>
     <?php
         include('includes/preloader.php');
-        include('includes/header.php');
-        include('modules/'.$lenguaje.'contact.php');
-        include('includes/footer.php');
+        include('modules/'.$lenguaje.'/header.php');
+        include('modules/'.$lenguaje.'/contact.php');
+        include('modules/'.$lenguaje.'/footer.php');
         include('includes/scripts.php');
         include('includes/redes.php');   
     ?>
