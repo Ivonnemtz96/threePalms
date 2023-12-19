@@ -168,7 +168,7 @@
 </section>
 
 
-<section  class="service padding-top padding-bottom bg--section-color">
+<section class="service padding-top padding-bottom bg--section-color">
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
@@ -281,9 +281,6 @@
         </div>
     </div>
 </section>
-
-
-
 
 
 <section class="about padding-top padding-bottom about--shape">
@@ -498,42 +495,44 @@
                         <div class="accordion" id="faqAccordion2">
                             <div class="row g-4">
                                 <div class="col-12">
+                                    <div class="accordion__item" data-aos="fade-up-right" data-aos-duration="1100">
+                                        <div class="accordion__header" id="faq2">
+                                            <button class="accordion__button" type="button" data-bs-toggle="collapse"
+                                                data-bs-target="#faqBody2" aria-expanded="true"
+                                                aria-controls="faqBody2">
+                                                ¿Cómo reservar una propiedad en la página? <span
+                                                    class="plus-icon"></span>
+                                            </button>
+                                        </div>
+                                        <div id="faqBody2" class="accordion-collapse collapse show"
+                                            aria-labelledby="faq2" data-bs-parent="#faqAccordion2">
+                                            <div class="accordion__body">
+                                                En nuestro menú entras a la pestaña de "Propiedades" y eliges entre
+                                                nuestra extensa variedad de propiedades la que más te guste, el link te
+                                                llevará a la página de Airbnb en dónde podrás reservar sin problemas.
+                                                <strong>¡Recuerda que reservando cualquiera de nuestras propiedades
+                                                    gozas de tarifas exclusivas!</strong>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-12">
                                     <div class="accordion__item" data-aos="fade-up-right" data-aos-duration="1000">
                                         <div class="accordion__header" id="faq1">
                                             <button class="accordion__button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#faqBody1"
                                                 aria-expanded="false" aria-controls="faqBody1">
-                                                Pregunta 1
+                                                ¿Qué tipos de descuento manejan en los servicios?
                                                 <span class="plus-icon"></span>
                                             </button>
                                         </div>
                                         <div id="faqBody1" class="accordion-collapse collapse" aria-labelledby="faq1"
                                             data-bs-parent="#faqAccordion2">
                                             <div class="accordion__body">
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
-                                                sint, inventore sequi iste quibusdam atque nemo architecto quisquam
-                                                possimus reiciendis deleniti? Labore quaerat optio voluptas ea quasi
-                                                hic laboriosam odit?
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="accordion__item" data-aos="fade-up-right" data-aos-duration="1100">
-                                        <div class="accordion__header" id="faq2">
-                                            <button class="accordion__button" type="button" data-bs-toggle="collapse"
-                                                data-bs-target="#faqBody2" aria-expanded="true"
-                                                aria-controls="faqBody2">
-                                                Pregunta 2 <span class="plus-icon"></span>
-                                            </button>
-                                        </div>
-                                        <div id="faqBody2" class="accordion-collapse collapse show"
-                                            aria-labelledby="faq2" data-bs-parent="#faqAccordion2">
-                                            <div class="accordion__body">
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
-                                                sint, inventore sequi iste quibusdam atque nemo architecto quisquam
-                                                possimus reiciendis deleniti? Labore quaerat optio voluptas ea quasi
-                                                hic laboriosam odit?
+                                                Para conserjería, actividades, pangas, chef, catering y transportadoras
+                                                en
+                                                tours de Cabo San Lucas y La Paz tiene <b>50%</b> de descuento. <br>
+                                                Cabo Adventures en todos sus tours cuenta con <b>30%</b> descuento.
                                             </div>
                                         </div>
                                     </div>
@@ -544,36 +543,14 @@
                                             <button class="accordion__button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#faqBody3"
                                                 aria-expanded="false" aria-controls="faqBody3">
-                                                Pregunta 3<span class="plus-icon"></span>
+                                                ¿Con qué otros servicios cuentan?<span class="plus-icon"></span>
                                             </button>
                                         </div>
                                         <div id="faqBody3" class="accordion-collapse collapse" aria-labelledby="faq3"
                                             data-bs-parent="#faqAccordion2">
                                             <div class="accordion__body">
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
-                                                sint, inventore sequi iste quibusdam atque nemo architecto quisquam
-                                                possimus reiciendis deleniti? Labore quaerat optio voluptas ea quasi
-                                                hic laboriosam odit?
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="col-12">
-                                    <div class="accordion__item" data-aos="fade-up-right" data-aos-duration="1300">
-                                        <div class="accordion__header" id="faq4">
-                                            <button class="accordion__button collapsed" type="button"
-                                                data-bs-toggle="collapse" data-bs-target="#faqBody4"
-                                                aria-expanded="false" aria-controls="faqBody4">
-                                                Pregunta 4<span class="plus-icon"></span>
-                                            </button>
-                                        </div>
-                                        <div id="faqBody4" class="accordion-collapse collapse" aria-labelledby="faq4"
-                                            data-bs-parent="#faqAccordion2">
-                                            <div class="accordion__body">
-                                                Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate
-                                                sint, inventore sequi iste quibusdam atque nemo architecto quisquam
-                                                possimus reiciendis deleniti? Labore quaerat optio voluptas ea quasi
-                                                hic laboriosam odit?
+                                                Administramos propiedades, mantenimientos residenciales, servicio de limpieza y más. <br>
+                                                ¡Reserva ahora con nosotros!
                                             </div>
                                         </div>
                                     </div>
