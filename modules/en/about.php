@@ -2,10 +2,10 @@
 <section class="page-header bg--cover" style="background-image: url(assets/images/header/03.jpg);">
     <div class="container">
         <div class="page-header__content text-center">
-            <h2>Sobre Nosotros</h2>
+            <h2>About Us</h2>
             <nav style="--bs-breadcrumb-divider: '/';" aria-label="breadcrumb">
                 <ol class="breadcrumb justify-content-center mb-0">
-                    <li class="breadcrumb-item"><a href="index.php">Inicio</a></li>
+                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
                     <li class="breadcrumb-item active" aria-current="page" style="color: #fff;">Three Palms</li>
                 </ol>
             </nav>
@@ -30,22 +30,22 @@
                             <h2>Three Palms</h2>
                         </div>
                         <p>
-                            Three Palms es una agencia de gestión de propiedades y planificación de vacaciones que
-                            está aquí para cambiar el juego, en comparación con otras empresas de gestión de
-                            propiedades nos centramos en crear experiencias únicas y memorables basadas en las
-                            necesidades y preferencias de los huéspedes. Ofrecemos un servicio de lujo basado en altos
-                            estándares modernos.
+                            Three Palms is a property management and vacation planning agency that is here to change the
+                            game compared to other property management and vacation planning companies. is here to
+                            change the game, compared to other property management companies, we focus on creating
+                            unique and memorable We focus on creating unique and memorable experiences based on guests'
+                            needs and preferences. guests' needs and preferences. We offer luxury service based on high
+                            modern standards. modern standards.
                         </p>
                         <p>
-                            Tiene aproximadamente funcionando hace 1 año hemos crecido de manera orgánica
-                            conforme lo ah solicitado el Mercado. Nuestro enfoque es brindar una experiencia con altos
-                            estándares de lujo personalizando cada estadía a las necesidades de nuestros dueños y
-                            huéspedes. Creemos que manejar lo básico como la administración y el mantenimiento es lo
-                            mínimo pero cuando dominas por completo el tema puedes ir más haya y crear momentos
-                            inolvidables y genuinos.
+                            We have been in operation for approximately 1 year and have grown organically as the market
+                            has requested. Our focus is to provide an experience with high standards of luxury by
+                            customizing each stay to the needs of our owners and guests. We believe that handling the
+                            basics such as administration and maintenance is the minimum but when you fully master the
+                            subject you can go beyond that and create unforgettable and genuine moments.
                         </p>
 
-                        <a href="galeria.php" class="custom-btn texto-bco"><span>Ver galería</span></a>
+                        <a href="galeria.php" class="custom-btn texto-bco"><span>View Gallery</span></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -65,9 +65,9 @@
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
-                <h2>Nuestros Servicios</h2>
-                <p>Continually productize compelling quality for packed in business consulting elated
-                    Setting up to website and creating pages.
+                <h2>Our Services</h2>
+                <p>
+                    We have a wide variety of services that can help facilitate the maintenance of your residence.
                 </p>
             </div>
         </div>
@@ -80,7 +80,7 @@
                                 <img src="assets/images/feature/icons/1.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
-                                <h3>Gestión de la propiedad</h3>
+                                <h3>Property management</h3>
                             </div>
                         </div>
                     </div>
@@ -92,7 +92,7 @@
                                 <img src="assets/images/feature/icons/8.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
-                                <h3>Servicios de Mantenimiento</h3>
+                                <h3>Maintenance Services</h3>
                             </div>
                         </div>
                     </div>
@@ -104,7 +104,7 @@
                                 <img src="assets/images/feature/icons/7.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
-                                <h3>Gestión de servicios <br><br></h3>
+                                <h3>Service management<br><br></h3>
                             </div>
                         </div>
                     </div>
@@ -116,7 +116,7 @@
                                 <img src="assets/images/feature/icons/6.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
-                                <h3>Servicios de limpieza</h3>
+                                <h3>Cleaning services</h3>
                             </div>
                         </div>
                     </div>
@@ -141,33 +141,33 @@
                     <div class="about__content" data-aos="fade-up" data-aos-duration="1000">
 
                         <div class="common-header">
-                            <h2>Misión</h2>
+                            <h2>Mission</h2>
                         </div>
                         <p>
-                            Nuestra misión es hacer que nuestros servicios sean 100% personalizados, para crear una
-                            experiencia única para ti y tus seres queridos. No importa si eres un huésped o propietario
-                            de una propiedad, queremos que sepas que estás en manos de profesionales.
+                            Our mission is to make our services 100% personalized, to create a unique experience for you
+                            and your loved ones. Whether you are a guest or a property owner, we want you to know that
+                            you are in the hands of professionals.
                         </p>
                     </div>
 
                     <div class="about__content" data-aos="fade-up" data-aos-duration="1000">
 
                         <div class="common-header">
-                            <h2>Visión</h2>
+                            <h2>Vision</h2>
                         </div>
                         <p>
-                            Para nuestros huéspedes, la visión es ser una empresa orgánica donde no tienes que
-                            preocuparte en lo más mínimo por planificar un viaje o una estancia perfecta, estamos aquí
-                            para hacerlo por ti. Desde el momento en que reservas una de nuestras propiedades, nuestros
-                            expertos planificarán tu viaje según tu presupuesto y preferencias.
+                            For our guests, the vision is to be an organic company where you don't have to worry in the
+                            slightest about planning a trip or a perfect
+                            stay, we are here to do ti for you. From the moment you reserve one of our properties, our
+                            experts wil plan your trip according to your budget and preferences.
                         </p>
                         <p>
-                            La visión para nuestros propietarios es que tengan la seguridad de saber que su propiedad
-                            está siendo atendida por un equipo de profesionales con los más altos estándares de calidad.
-                            Donde saben que sus huéspedes, más allá de un simple servicio, están recibiendo una
-                            experiencia única e inolvidable.
+                            The vision for our owners si that they have the security of knowing that their property si
+                            being attended by a team of professionals with the highest quality standards. Where they
+                            know that their guests, beyond a simple service, are receiving a unique and memorable
+                            experience.
                         </p>
-                        <a href="galeria.php" class="custom-btn mt-20 texto-bco"><span>Ver galería</span></a>
+                        <a href="galeria.php" class="custom-btn mt-20 texto-bco"><span>View gallery</span></a>
                     </div>
                 </div>
 
@@ -187,22 +187,20 @@
                     <div class="about__content" data-aos="fade-up-right" data-aos-duration="1000" data-aos-delay="100">
 
                         <div class="common-header">
-                            <h2>Sobre Alan González</h2>
+                            <h2>About Alan Gonzalez</h2>
                             <p class="subtitle">Director & CEO</p>
                         </div>
                         <p>
-                            Alan González es una persona que disfruta mucho el tiempo de calidad con su familia,
-                            atezoro mucho las experiencias y recuerdos con mis seres queridos. <br> Mi carrera dio
-                            inicio
-                            trabajando como recepcionista en un pequeño hotel en Cabo San Lucas encontrando el éxito por
-                            diferentes empresas hasta hasta que llegue como Guest Experience Manager en uno de los
-                            corporativos más reconocidos a nivel mundial. Ahí decidí emprender mi propio proyecto y
-                            continuar haciendo lo que amo, ser anfitrión y crear memorias que perduren para toda la
-                            vida.
+                            Alan Gonzalez is a person who enjoys quality time with his family, I treasure the
+                            experiences and memories with my loved ones. <br>
+                            My career started working as a receptionist in a small hotel in Cabo San Lucas, finding
+                            success in different companies until I became Guest Experience Manager in one of the most
+                            recognized corporations worldwide. There I decided to start my own project and continue
+                            doing what I love, being a host and creating memories that last a lifetime.
                         </p>
                         <div class="row g-4 my-5">
                         </div>
-                        <a href="rentals.php" class="custom-btn texto-bco"><span>Más de Three Palms</span></a>
+                        <a href="rentals.php" class="custom-btn texto-bco"><span>View Rentals</span></a>
                     </div>
                 </div>
                 <div class="col-lg-6">

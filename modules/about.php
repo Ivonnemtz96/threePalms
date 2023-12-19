@@ -66,8 +66,8 @@
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
                 <h2>Nuestros Servicios</h2>
-                <p>Continually productize compelling quality for packed in business consulting elated
-                    Setting up to website and creating pages.
+                <p>
+                    Contamos con una amplia variedad de servicios que pueden ayudar a facilitar el mantenimiento de su residencia.
                 </p>
             </div>
         </div>

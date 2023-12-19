@@ -195,7 +195,7 @@
                                     </div>
                                     <p>
                                         Disfruta de las mejores actividades en Los Cabos con el 30% de descuento
-                                        adquieriendo con nosotros.
+                                        adquiriendo con nosotros.
                                     </p>
                                     <ul class="service__aminities">
                                         <li class="service__aminities-item">

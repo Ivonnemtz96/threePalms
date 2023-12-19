@@ -8,8 +8,8 @@
                             <div class="col-lg-8">
                                 <div class="hero__content hero__content--center">
                                     <h1>Property Managment & Vacation Planning</h1>
-                                    <p class="text-lg">No te lo puedes perder</p>
-                                    <a href="#" class="custom-btn"><span>Ver más</span></a>
+                                    <p class="text-lg">You can't miss it</p>
+                                    <a href="#" class="custom-btn"><span>View More</span></a>
                                 </div>
                             </div>
                         </div>
@@ -23,9 +23,9 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="hero__content hero__content--center">
-                                    <h1>Las mejores rentas vacacionales</h1>
-                                    <p class="text-lg">Descubre las ofertas especiales en tours</p>
-                                    <a href="#" class="custom-btn"><span>Ver más</span></a>
+                                    <h1>The best vacation rentals</h1>
+                                    <p class="text-lg">Discover special offers on tours</p>
+                                    <a href="#" class="custom-btn"><span>View More</span></a>
                                 </div>
                             </div>
                         </div>
@@ -38,9 +38,9 @@
                         <div class="row justify-content-center">
                             <div class="col-lg-8">
                                 <div class="hero__content hero__content--center">
-                                    <h1>Tree Palms tiene lo que necesitas</h1>
-                                    <p class="text-lg">Renta ahora y ve nuestras promociones</p>
-                                    <a href="#" class="custom-btn"><span>Ver más</span></a>
+                                    <h1>Tree Palms has what you need</h1>
+                                    <p class="text-lg">Rent now and see our promotions</p>
+                                    <a href="#" class="custom-btn"><span>View More</span></a>
                                 </div>
                             </div>
                         </div>
@@ -60,7 +60,7 @@
         <div class="section-header__content text-center" style="margin-bottom: 5rem;">
             <h2>Three Palms</h2>
             <h6>
-                Tu mejor opción para tus rentas vacacionales
+                Your best option for your vacation rentals
             </h6>
         </div>
         <div class="row">
@@ -68,28 +68,28 @@
                 <a onclick="cabo_poolside()">
                     <img style="border-radius: 10rem;" src="assets/images/room/home2/01.jpg" alt="Three palms">
                 </a>
-                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="cabo_poolside()">Condominio en Tezal</a></h3>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="cabo_poolside()">condominium in Tezal</a></h3>
             </div>
             <div class="col-6 col-md-3 align-content-center text-center">
                 <a onclick="residencia_playa()">
                     <img style="border-radius: 10rem;" src="assets/images/room/home2/03.jpg" alt="Three palms">
                 </a>
-                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="residencia_playa()">Residencia De Playa</a></h3>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="residencia_playa()">Beach Residence</a></h3>
             </div>
             <div class="col-6 col-md-3 align-content-center text-center">
                 <a onclick="estilo_moderno()">
                     <img style="border-radius: 10rem;" src="assets/images/room/home2/04.jpg" alt="Three palms">
                 </a>
-                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="estilo_moderno()">Villa Estilo Moderno</a></h3>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="estilo_moderno()">Modern Style Villa</a></h3>
             </div>
             <div class="col-6 col-md-3 align-content-center text-center">
                 <a onclick="vista_arco()">
                     <img style="border-radius: 10rem;" src="assets/images/room/home2/05.jpg" alt="Three palms">
                 </a>
-                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="vista_arco()">Vista al Arco</a></h3>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="vista_arco()">Arch View</a></h3>
             </div>
             <div class="col-md-12 text-center" style="margin-top: 2rem;">
-                <a href="rentals.php" class="custom-btn"><span>Ver propiedades</span></a>
+                <a href="rentals.php" class="custom-btn"><span>view properties</span></a>
             </div>
         </div>
     </div>
@@ -108,11 +108,10 @@
                             <h2>Three Palms</h2>
                         </div>
                         <p>
-                            Somos una agencia de gestión de propiedades y planificación de vacaciones que
-                            está aquí para cambiar el juego, en comparación con otras empresas de gestión de
-                            propiedades nos centramos en crear experiencias únicas y memorables basadas en las
-                            necesidades y preferencias de los huéspedes. Ofrecemos un servicio de lujo basado en altos
-                            estándares modernos.
+                            We are a property management and vacation planning agency that is here to change the game,
+                            compared to other property management companies we focus on creating unique and memorable
+                            experiences based on the needs and preferences of the guests. We offer luxury service based
+                            on high modern standards.
                         </p>
                         <ul class="funfact__list my-4">
                             <li class="funfact__item">
@@ -121,7 +120,7 @@
                                 </div>
                                 <div class="funfact__item-content">
                                     <h3><span>20</span>+</h3>
-                                    <p>Propiedades</p>
+                                    <p>Propierties</p>
                                 </div>
                             </li>
                             <li class="funfact__item">
@@ -130,7 +129,7 @@
                                 </div>
                                 <div class="funfact__item-content">
                                     <h3><span>5</span>+</h3>
-                                    <p>Meses</p>
+                                    <p>Months</p>
                                 </div>
                             </li>
                             <li class="funfact__item">
@@ -139,11 +138,11 @@
                                 </div>
                                 <div class="funfact__item-content">
                                     <h3><span>50</span>+</h3>
-                                    <p>Clientes</p>
+                                    <p>Customers</p>
                                 </div>
                             </li>
                         </ul>
-                        <a href="galeria.php" class="custom-btn"><span>Ver galería</span></a>
+                        <a href="galeria.php" class="custom-btn"><span>View Gallery</span></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -159,10 +158,10 @@
 <section class="ofertas-tours" style="margin-top: 5rem;">
     <div class="scroll text2">
         <div>
-            Renta<span> con nosotros</span> tenemos <span> grandes decuentos.</span>
+            Rent<span> with us</span> we have <span> great discounts.</span>
         </div>
         <div>
-            Renta ahora<span> y disfruta de </span>estos beneficios<span>ve nuestras propiedades</span>
+            Rent now<span> and enjoy </span>these benefits<span> see our propertiess</span>
         </div>
     </div>
 </section>
@@ -172,9 +171,9 @@
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
-                <h2>Descuentos Exclusivos Para Nuestros Clientes</h2>
+                <h2>Exclusive Discounts For Our Customers</h2>
                 <p>
-                    No te pierdas la oportunidad de ahorrar en tus actividades favoritas.
+                    Don't miss the opportunity to save on your favorite activities.
                 </p>
             </div>
         </div>
@@ -190,40 +189,39 @@
                                 </div>
                                 <div class="service__item1-content">
                                     <div class="common-header">
-                                        <p class="subtitle">30% de decuento</p>
+                                        <p class="subtitle">30% discount</p>
                                         <h3>Cabo Adventures <br><br></h3>
                                     </div>
                                     <p>
-                                        Disfruta de las mejores actividades en Los Cabos con el 30% de descuento
-                                        adquieriendo con nosotros.
+                                        Enjoy the best activities in Los Cabos with a 30% discount purchasing with us.
                                     </p>
                                     <ul class="service__aminities">
                                         <li class="service__aminities-item">
                                             <div class="service__aminities-name">
                                                 <span><i class="fa-regular fa-circle-check"></i></span>
-                                                <h5>Nado Con Delfines Signature</h5>
+                                                <h5>Signature Swim With Dolphins</h5>
                                             </div>
                                         </li>
                                         <li class="service__aminities-item">
                                             <div class="service__aminities-name">
                                                 <span><i class="fa-regular fa-circle-check"></i></span>
-                                                <h5>Velero de Lujo al Atardecer</h5>
+                                                <h5>Luxury Sunset Sailing</h5>
                                             </div>
                                         </li>
                                         <li class="service__aminities-item">
                                             <div class="service__aminities-name">
                                                 <span><i class="fa-regular fa-circle-check"></i></span>
-                                                <h5>Snorkel en Cabo San Lucas</h5>
+                                                <h5>Cabo San Lucas Snorkeling</h5>
                                             </div>
                                         </li>
                                         <li class="service__aminities-item">
                                             <div class="service__aminities-name">
                                                 <span><i class="fa-regular fa-circle-check"></i></span>
-                                                <h5>Snorkel de Lujo en dos Bahías</h5>
+                                                <h5>Luxury Snorkel in two Bays</h5>
                                             </div>
                                         </li>
                                     </ul>
-                                    <a href="tel:+526241170152" class="custom-btn"><span>Contactar</span></a>
+                                    <a href="tel:+526241170152" class="custom-btn"><span>Contact</span></a>
                                 </div>
                             </div>
                         </div>
@@ -236,24 +234,23 @@
                                 </div>
                                 <div class="service__item1-content">
                                     <div class="common-header">
-                                        <p class="subtitle">50% de decuento</p>
-                                        <h3>En diferentes tipos de servicios</h3>
+                                        <p class="subtitle">50% discount</p>
+                                        <h3>In different types of services</h3>
                                     </div>
                                     <p>
-                                        Únete a nosotros para recibir descuentos exclusivos en experiencias
-                                        inolvidables.
+                                        Join us to receive exclusive discounts on unforgettable experiences.
                                     </p>
                                     <ul class="service__aminities">
                                         <li class="service__aminities-item">
                                             <div class="service__aminities-name">
                                                 <span><i class="fa-regular fa-circle-check"></i></span>
-                                                <h5>Pangas Beneficio Para Clientes</h5>
+                                                <h5>Pangas Customer Benefit</h5>
                                             </div>
                                         </li>
                                         <li class="service__aminities-item">
                                             <div class="service__aminities-name">
                                                 <span><i class="fa-regular fa-circle-check"></i></span>
-                                                <h5>Transportadora</h5>
+                                                <h5>Transfers</h5>
                                             </div>
                                         </li>
                                         <li class="service__aminities-item">
@@ -265,11 +262,11 @@
                                         <li class="service__aminities-item">
                                             <div class="service__aminities-name">
                                                 <span><i class="fa-regular fa-circle-check"></i></span>
-                                                <h5>Y más...</h5>
+                                                <h5>And More...</h5>
                                             </div>
                                         </li>
                                     </ul>
-                                    <a href="tel:+526241170152" class="custom-btn"><span>Contactar</span></a>
+                                    <a href="tel:+526241170152" class="custom-btn"><span>Contact Us</span></a>
                                 </div>
                             </div>
                         </div>
@@ -291,22 +288,20 @@
                     <div class="about__content" data-aos="fade-up-right" data-aos-duration="1000" data-aos-delay="100">
 
                         <div class="common-header">
-                            <h2>Sobre Alan González</h2>
+                            <h2>About Alan Gonzalez</h2>
                             <p class="subtitle">Director & CEO</p>
                         </div>
                         <p>
-                            Alan González es una persona que disfruta mucho el tiempo de calidad con su familia,
-                            atezoro mucho las experiencias y recuerdos con mis seres queridos. <br> Mi carrera dio
-                            inicio
-                            trabajando como recepcionista en un pequeño hotel en Cabo San Lucas encontrando el éxito por
-                            diferentes empresas hasta hasta que llegue como Guest Experience Manager en uno de los
-                            corporativos más reconocidos a nivel mundial. Ahí decidí emprender mi propio proyecto y
-                            continuar haciendo lo que amo, ser anfitrión y crear memorias que perduren para toda la
-                            vida.
+                            Alan Gonzalez is a person who enjoys quality time with his family, I treasure the
+                            experiences and memories with my loved ones. <br>
+                            My career started working as a receptionist in a small hotel in Cabo San Lucas, finding
+                            success in different companies until I became Guest Experience Manager in one of the most
+                            recognized corporations worldwide. There I decided to start my own project and continue
+                            doing what I love, being a host and creating memories that last a lifetime.
                         </p>
                         <div class="row g-4 my-5">
                         </div>
-                        <a href="about.php" class="custom-btn" style="color: #fff;"><span>Más de Three Palms</span></a>
+                        <a href="about.php" class="custom-btn" style="color: #fff;"><span>More of Three Palms</span></a>
                     </div>
                 </div>
                 <div class="col-lg-6">
@@ -324,7 +319,7 @@
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
-                <h2>Nuestros Servicios</h2>
+                <h2>Our Services</h2>
                 <p>Continually productize compelling quality for packed in business consulting elated
                     Setting up to website and creating pages.
                 </p>
@@ -339,7 +334,7 @@
                                 <img src="assets/images/feature/icons/1.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
-                                <h3>Gestión de la propiedad</h3>
+                                <h3>Property management</h3>
                             </div>
                         </div>
                     </div>
@@ -351,7 +346,7 @@
                                 <img src="assets/images/feature/icons/8.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
-                                <h3>Servicios de Mantenimiento</h3>
+                                <h3>Maintenance Services</h3>
                             </div>
                         </div>
                     </div>
@@ -363,7 +358,7 @@
                                 <img src="assets/images/feature/icons/7.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
-                                <h3>Gestión de servicios <br><br></h3>
+                                <h3>Service management <br><br></h3>
                             </div>
                         </div>
                     </div>
@@ -375,7 +370,7 @@
                                 <img src="assets/images/feature/icons/6.png" alt="feature icon">
                             </div>
                             <div class="feature__item-content">
-                                <h3>Servicios de limpieza</h3>
+                                <h3>Cleaning services</h3>
                             </div>
                         </div>
                     </div>
@@ -391,10 +386,10 @@
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
-                <h2>Otros Servicios</h2>
+                <h2>Other Services</h2>
                 <p>
-                    Encuentra tu lugar en el mundo con nuestra amplia gama de propiedades exclusivas y los servicios
-                    que tenemos para ti.
+                    Find your place in the world with our wide range of exclusive properties and the services we have
+                    for you.
                 </p>
             </div>
         </div>
@@ -408,11 +403,11 @@
                             </div>
                             <div class="team__item1-content">
                                 <div class="team__item1-author">
-                                    <h3>Servicio de Limpieza</h3>
+                                    <h3>Housekeeping Service</h3>
                                 </div>
                                 <p>
-                                    Transformamos espacios con nuestro servicio de limpieza. Descubre la pureza y
-                                    frescura que solo podemos ofrecer.
+                                    We transform spaces with our cleaning service. Discover the purity and freshness
+                                    that only we can offer.
                                 </p>
                             </div>
                         </div>
@@ -426,7 +421,7 @@
                             </div>
                             <div class="team__item1-content">
                                 <div class="team__item1-author">
-                                    <h3>Concierge On Site o a distancia</h3>
+                                    <h3>On Site or Remote Concierge</h3>
                                 </div>
                                 <p>
                                     Desde la comodidad de tu propiedad, simplificamos tu vida para satisfacer tus
@@ -444,10 +439,10 @@
                             </div>
                             <div class="team__item1-content">
                                 <div class="team__item1-author">
-                                    <h3>Servicios exclusivos de yates</h3>
+                                    <h3>Exclusive yacht services</h3>
                                 </div>
                                 <p>
-                                    Creamos experiencias marítimas inolvidables para ti y tus invitados.
+                                    We create unforgettable maritime experiences for you and your guests.
                                 </p>
                             </div>
                         </div>
@@ -461,10 +456,10 @@
                             </div>
                             <div class="team__item1-content">
                                 <div class="team__item1-author">
-                                    <h3>Mantenimiento de propiedades</h3>
+                                    <h3>Property maintenance</h3>
                                 </div>
                                 <p>
-                                    Para que disfrutes de un espacio impecable y funcional en todo momento.
+                                    For you to enjoy an impeccable and functional space at all times.
                                 </p>
                             </div>
                         </div>
@@ -485,10 +480,9 @@
                     <div class="faq__content">
                         <div class="section-header">
                             <div class="section-header__content text-start">
-                                <h2>Algunas Preguntas Frecuentes</h2>
+                                <h2>Some Frequently Asked Questions</h2>
                                 <p>
-                                    Aquí dejamos unas de las preguntas más frecuentes que suelen preguntar nuestros
-                                    clientes.
+                                    Here are some of the most frequently asked questions by our clients.
                                 </p>
                             </div>
                         </div>
@@ -500,18 +494,17 @@
                                             <button class="accordion__button" type="button" data-bs-toggle="collapse"
                                                 data-bs-target="#faqBody2" aria-expanded="true"
                                                 aria-controls="faqBody2">
-                                                ¿Cómo reservar una propiedad en la página? <span
-                                                    class="plus-icon"></span>
+                                                How to book a property on the site? <span class="plus-icon"></span>
                                             </button>
                                         </div>
                                         <div id="faqBody2" class="accordion-collapse collapse show"
                                             aria-labelledby="faq2" data-bs-parent="#faqAccordion2">
                                             <div class="accordion__body">
-                                                En nuestro menú entras a la pestaña de "Propiedades" y eliges entre
-                                                nuestra extensa variedad de propiedades la que más te guste, el link te
-                                                llevará a la página de Airbnb en dónde podrás reservar sin problemas.
-                                                <strong>¡Recuerda que reservando cualquiera de nuestras propiedades
-                                                    gozas de tarifas exclusivas!</strong>
+                                                In our menu you go to the "Properties" tab and choose from our wide
+                                                variety of properties the one you like the most, the link will take you
+                                                to the Airbnb page where you can book without any problems.
+                                                <strong>Remember that by booking any of our properties you enjoy
+                                                    exclusive rates!</strong>
                                             </div>
                                         </div>
                                     </div>
@@ -522,17 +515,17 @@
                                             <button class="accordion__button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#faqBody1"
                                                 aria-expanded="false" aria-controls="faqBody1">
-                                                ¿Qué tipos de descuento manejan en los servicios?
+                                                What kind of discounts do you offer on services?
                                                 <span class="plus-icon"></span>
                                             </button>
                                         </div>
                                         <div id="faqBody1" class="accordion-collapse collapse" aria-labelledby="faq1"
                                             data-bs-parent="#faqAccordion2">
                                             <div class="accordion__body">
-                                                Para conserjería, actividades, pangas, chef, catering y transportadoras
-                                                en
-                                                tours de Cabo San Lucas y La Paz tiene <b>50%</b> de descuento. <br>
-                                                Cabo Adventures en todos sus tours cuenta con <b>30%</b> descuento.
+                                                For concierge, activities, pangas, chef, catering and transporters in
+                                                Cabo San Lucas and La Paz tours you have <b>50%</b> discount. Cabo
+                                                Adventures
+                                                has a <b>30%</b> discount on all tours.
                                             </div>
                                         </div>
                                     </div>
@@ -543,14 +536,15 @@
                                             <button class="accordion__button collapsed" type="button"
                                                 data-bs-toggle="collapse" data-bs-target="#faqBody3"
                                                 aria-expanded="false" aria-controls="faqBody3">
-                                                ¿Con qué otros servicios cuentan?<span class="plus-icon"></span>
+                                                What other services are available?<span class="plus-icon"></span>
                                             </button>
                                         </div>
                                         <div id="faqBody3" class="accordion-collapse collapse" aria-labelledby="faq3"
                                             data-bs-parent="#faqAccordion2">
                                             <div class="accordion__body">
-                                                Administramos propiedades, mantenimientos residenciales, servicio de limpieza y más. <br>
-                                                ¡Reserva ahora con nosotros!
+                                                We manage properties, residential maintenance, cleaning services and
+                                                more. <br>
+                                                book with us now!
                                             </div>
                                         </div>
                                     </div>
@@ -575,7 +569,7 @@
     <div class="container">
         <div class="section-header" data-aos="fade-up" data-aos-duration="1000">
             <div class="section-header__content">
-                <h2>¿Qué dicen nuestros clientes?</h2>
+                <h2>What do our clients say?</h2>
             </div>
         </div>
         <div class="testimonial__slider swiper" data-aos="fade-up" data-aos-duration="1000">
@@ -588,8 +582,8 @@
                             </div>
                             <div class="testimonial__item-content">
                                 <p>
-                                    Gran lugar para hospedarme con la familia. Me hospedaré aquí la próxima vez que
-                                    venga a la ciudad con la familia.
+                                    Great place to stay with the family. I will stay here next time I am in town with
+                                    the family. I'll stay here next time I'm in town with the family.
                                 </p>
                                 <div class="testimonial__item-footer">
                                     <div class="testimonial__item-author">
@@ -616,9 +610,8 @@
                             </div>
                             <div class="testimonial__item-content">
                                 <p>
-                                    Buen lugar para quedarse con amigos y familia. Alan es un excelente anfitrión, súper
-                                    atento y amable
-                                    Sin duda volvería a reservar con el
+                                    Good place to stay with friends and family. Alan is an excellent host, super
+                                    attentive and friendly. I would definitely book with him again.
                                 </p>
                                 <div class="testimonial__item-footer">
                                     <div class="testimonial__item-author">
