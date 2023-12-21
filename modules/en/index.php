@@ -60,7 +60,7 @@
         <div class="section-header__content text-center" style="margin-bottom: 5rem;">
             <h2>Three Palms</h2>
             <h6>
-                Your best option for your vacation rentals
+                The best option for your vacation rentals
             </h6>
         </div>
         <div class="row">
@@ -68,7 +68,7 @@
                 <a onclick="cabo_poolside()">
                     <img style="border-radius: 10rem;" src="assets/images/room/home2/01.jpg" alt="Three palms">
                 </a>
-                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="cabo_poolside()">condominium in Tezal</a></h3>
+                <h3 style="margin-top: 1.5rem;"><a href="#" onclick="cabo_poolside()">Condominium in Tezal</a></h3>
             </div>
             <div class="col-6 col-md-3 align-content-center text-center">
                 <a onclick="residencia_playa()">
@@ -161,7 +161,7 @@
             Rent<span> with us</span> we have <span> great discounts.</span>
         </div>
         <div>
-            Rent now<span> and enjoy </span>these benefits<span> see our propertiess</span>
+            Rent now<span> and enjoy </span>incredible benefits<span> see our propertiess</span>
         </div>
     </div>
 </section>
@@ -292,8 +292,9 @@
                             <p class="subtitle">Director & CEO</p>
                         </div>
                         <p>
-                            Alan Gonzalez is a person who enjoys quality time with his family, I treasure the
-                            experiences and memories with my loved ones. <br>
+                            Alan Gonzalez is a person who enjoys quality time with his family and wants you to enjoy
+                            your holidays with yours. <br>
+                            I treasure the experiences and memories with my loved ones. <br>
                             My career started working as a receptionist in a small hotel in Cabo San Lucas, finding
                             success in different companies until I became Guest Experience Manager in one of the most
                             recognized corporations worldwide. There I decided to start my own project and continue
@@ -424,8 +425,7 @@
                                     <h3>On Site or Remote Concierge</h3>
                                 </div>
                                 <p>
-                                    Desde la comodidad de tu propiedad, simplificamos tu vida para satisfacer tus
-                                    necesidades.
+                                    From the comfort of your property, we simplify your life to fulfill your needs.
                                 </p>
                             </div>
                         </div>
@@ -544,7 +544,7 @@
                                             <div class="accordion__body">
                                                 We manage properties, residential maintenance, cleaning services and
                                                 more. <br>
-                                                book with us now!
+                                                Book with us now!
                                             </div>
                                         </div>
                                     </div>

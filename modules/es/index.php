@@ -162,7 +162,7 @@
             Renta<span> con nosotros</span> tenemos <span> grandes decuentos.</span>
         </div>
         <div>
-            Renta ahora<span> y disfruta de </span>estos beneficios<span>ve nuestras propiedades</span>
+            Renta ahora<span> y disfruta de </span>increíbles beneficios<span>ve nuestras propiedades</span>
         </div>
     </div>
 </section>

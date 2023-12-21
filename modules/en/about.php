@@ -31,17 +31,15 @@
                         </div>
                         <p>
                             Three Palms is a property management and vacation planning agency that is here to change the
-                            game compared to other property management and vacation planning companies. is here to
-                            change the game, compared to other property management companies, we focus on creating
-                            unique and memorable We focus on creating unique and memorable experiences based on guests'
-                            needs and preferences. guests' needs and preferences. We offer luxury service based on high
-                            modern standards. modern standards.
+                            game compared to other property management and vacation planning companies. We focus on
+                            creating unique and memorable experiences based on guests' needs and preferences. We offer
+                            luxury service based on high modern standards. modern standards.
                         </p>
                         <p>
                             We have been in operation for approximately 1 year and have grown organically as the market
-                            has requested. Our focus is to provide an experience with high standards of luxury by
+                            has requested. Our main goal is to provide an experience with high standards of luxury by
                             customizing each stay to the needs of our owners and guests. We believe that handling the
-                            basics such as administration and maintenance is the minimum but when you fully master the
+                            basics, such as administration and maintenance, is the minimum but when you fully master the
                             subject you can go beyond that and create unforgettable and genuine moments.
                         </p>
 
@@ -144,7 +142,7 @@
                             <h2>Mission</h2>
                         </div>
                         <p>
-                            Our mission is to make our services 100% personalized, to create a unique experience for you
+                            Our mission is to make our services 100% personalized and create a unique experience for you
                             and your loved ones. Whether you are a guest or a property owner, we want you to know that
                             you are in the hands of professionals.
                         </p>
@@ -157,12 +155,12 @@
                         </div>
                         <p>
                             For our guests, the vision is to be an organic company where you don't have to worry in the
-                            slightest about planning a trip or a perfect
-                            stay, we are here to do ti for you. From the moment you reserve one of our properties, our
-                            experts wil plan your trip according to your budget and preferences.
+                            slightest about planning a trip or a perfect stay, we are here to do it for you. From the
+                            moment you reserve one of our properties, our experts will plan your trip according to your
+                            budget and preferences.
                         </p>
                         <p>
-                            The vision for our owners si that they have the security of knowing that their property si
+                            The vision for our owners is that you have the security of knowing that your properties is
                             being attended by a team of professionals with the highest quality standards. Where they
                             know that their guests, beyond a simple service, are receiving a unique and memorable
                             experience.
@@ -191,8 +189,9 @@
                             <p class="subtitle">Director & CEO</p>
                         </div>
                         <p>
-                            Alan Gonzalez is a person who enjoys quality time with his family, I treasure the
-                            experiences and memories with my loved ones. <br>
+                            Alan Gonzalez is a person who enjoys quality time with his family and wants you to enjoy
+                            your holidays with yours. <br>
+                            I treasure the experiences and memories with my loved ones. <br>
                             My career started working as a receptionist in a small hotel in Cabo San Lucas, finding
                             success in different companies until I became Guest Experience Manager in one of the most
                             recognized corporations worldwide. There I decided to start my own project and continue
